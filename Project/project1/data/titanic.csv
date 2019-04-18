@@ -1,0 +1,711 @@
+Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Fare,First Name
+0,2,Mr. William John Berriman,male,23.0,0,0,13.0 pounds,William
+1,3,Mrs. (Beila) Moor,female,27.0,0,1,12.475 pounds,Beila
+0,3,Mr. Nestor Cyriel Vande Walle,male,28.0,0,0,9.5 pounds,Nestor
+0,3,Mr. Khalil Saad,male,25.0,0,0,7.225 pounds,Khalil
+0,3,Miss. Gerda Ulrika Dahlberg,female,22.0,0,0,10.5167 pounds,Gerda
+0,2,Mr. Percival James R Sharp,male,27.0,0,0,26.0 pounds,Percival
+1,3,Master. Halim Gonios Moubarek,male,4.0,1,1,15.2458 pounds,Halim
+0,3,Mr. Anders Johan Andersson,male,39.0,1,5,31.275 pounds,Anders
+0,3,Mr. Frederick Sage,male,17.0,8,2,69.55 pounds,Frederick
+0,3,Mrs. Frederick (Augusta Tyler) Goodwin,female,43.0,1,6,46.9 pounds,Augusta
+1,1,Mrs. Edgar Joseph (Leila Saks) Meyer,female,25.0,1,0,82.1708 pounds,Leila
+0,3,Mr. Minko Nankoff,male,32.0,0,0,7.8958 pounds,Minko
+1,3,Miss. Mary Kelly,female,22.0,0,0,7.75 pounds,Mary
+0,2,Mr. Alfred Fleming Cunningham,male,22.0,0,0,0.0 pounds,Alfred
+0,3,Miss. Nourelain Boulos,female,9.0,1,1,15.2458 pounds,Nourelain
+1,2,Mrs. (Amelia Milley) Lemore,female,34.0,0,0,10.5 pounds,Amelia
+0,1,Mr. John Borland Thayer,male,49.0,1,1,110.8833 pounds,John
+1,1,Mr. Henry Sleeper Harper,male,48.0,1,0,76.7292 pounds,Henry
+0,2,Mr. Moses Aaron Troupiansky,male,23.0,0,0,13.0 pounds,Moses
+1,2,Mrs. Edwy Arthur (Ada Mary Worth) West,female,33.0,1,2,27.75 pounds,Ada
+0,3,Mr. William Neal Ford,male,16.0,1,3,34.375 pounds,William
+0,3,Miss. Hileni Zabour,female,14.5,1,0,14.4542 pounds,Hileni
+1,3,Mrs. Sam (Leah Rosen) Aks,female,18.0,0,1,9.35 pounds,Leah
+0,3,Miss. Delia Henry,female,21.0,0,0,7.75 pounds,Delia
+0,3,Mr. Owen Harris Braund,male,22.0,1,0,7.25 pounds,Owen
+0,3,Mr. Jeremiah Burke,male,19.0,0,0,6.75 pounds,Jeremiah
+0,1,Mr. William Thomas Stead,male,62.0,0,0,26.55 pounds,William
+1,1,Miss. Susan Parker Ryerson,female,21.0,2,2,262.375 pounds,Susan
+1,1,Mrs. Emil (Tillie Mandelbaum) Taussig,female,39.0,1,1,79.65 pounds,Tillie
+0,1,Mr. Arthur Webster Newell,male,58.0,0,2,113.275 pounds,Arthur
+1,2,Master. John Morgan Jr Davies,male,8.0,1,1,36.75 pounds,John
+0,3,Mr. Hanna Boulos,male,18.0,0,0,7.225 pounds,Hanna
+0,3,Mr. Lewis Richard Braund,male,29.0,1,0,7.0458 pounds,Lewis
+0,3,Mr. Henrik Juul Hansen,male,26.0,1,0,7.8542 pounds,Henrik
+0,1,Mr. William Harrison,male,40.0,0,0,0.0 pounds,William
+0,3,Miss. Wendla Maria Heininen,female,23.0,0,0,7.925 pounds,Wendla
+0,3,Mr. William Morley,male,34.0,0,0,8.05 pounds,William
+0,3,Mr. Petar Calic,male,17.0,0,0,8.6625 pounds,Petar
+0,3,Mr. Alfonzo Meo,male,55.5,0,0,8.05 pounds,Alfonzo
+1,3,Miss. Helen Mary Mockler,female,23.0,0,0,7.8792 pounds,Helen
+1,3,Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen,female,24.0,1,0,15.85 pounds,Elin
+1,2,Miss. Julie Rachel Christy,female,25.0,1,1,30.0 pounds,Julie
+1,3,Mr. Nassef Cassem Albimona,male,26.0,0,0,18.7875 pounds,Nassef
+1,3,Mrs. Solomon (Latifa Qurban) Baclini,female,24.0,0,3,19.2583 pounds,Latifa
+0,2,Mr. Sidney Samuel Jacobsohn,male,42.0,1,0,27.0 pounds,Sidney
+0,3,Mr. Gustaf Hjalmar Edvardsson,male,18.0,0,0,7.775 pounds,Gustaf
+0,3,Mr. James Kelly,male,44.0,0,0,8.05 pounds,James
+0,3,Miss. Sigrid Elisabeth Andersson,female,11.0,4,2,31.275 pounds,Sigrid
+0,3,Mr. William John Rogers,male,30.0,0,0,8.05 pounds,William
+1,2,Mrs. Harvey (Charlotte Annie Tate) Collyer,female,31.0,1,1,26.25 pounds,Charlotte
+0,3,Mr. Tannous Elias,male,15.0,1,1,7.2292 pounds,Tannous
+1,2,Mrs. (Mary D Kingcome) Hewlett,female,55.0,0,0,16.0 pounds,Mary
+1,1,Mrs. George Nelson (Martha Evelyn) Stone,female,62.0,0,0,80.0 pounds,Martha
+0,3,Mr. Fared Kassem,male,18.0,0,0,7.2292 pounds,Fared
+1,1,Mrs. Norman Campbell (Bertha Griggs) Chambers,female,33.0,1,0,53.1 pounds,Bertha
+1,3,Miss. Eugenie Baclini,female,0.75,2,1,19.2583 pounds,Eugenie
+0,3,Mr. Uscher Paulner,male,16.0,0,0,8.7125 pounds,Uscher
+0,3,Mr. Daniel Coxon,male,59.0,0,0,7.25 pounds,Daniel
+1,1,Mlle. Emma Sagesser,female,24.0,0,0,69.3 pounds,Emma
+1,3,Miss. Eleanor Ileen Johnson,female,1.0,1,1,11.1333 pounds,Eleanor
+1,3,Miss. Carla Christine Nielsine Andersen-Jensen,female,19.0,1,0,7.8542 pounds,Carla
+1,2,Mrs. Charles V (Ada Maria Winfield) Clarke,female,28.0,1,0,26.0 pounds,Ada
+1,1,Mrs. William Thompson (Edith Junkins) Graham,female,58.0,0,1,153.4625 pounds,Edith
+1,3,Mr. Eugene Patrick Daly,male,29.0,0,0,7.75 pounds,Eugene
+1,3,Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom,female,33.0,3,0,15.85 pounds,Maria
+0,2,Mr. Samuel Abelson,male,30.0,1,0,24.0 pounds,Samuel
+0,3,Mr. Philip Kiernan,male,22.0,1,0,7.75 pounds,Philip
+0,3,Mr. Johan Svensson Lundahl,male,51.0,0,0,7.0542 pounds,Johan
+0,3,Mr. Ivan Stankovic,male,33.0,0,0,8.6625 pounds,Ivan
+1,2,Miss. Jessie Wills Leitch,female,31.0,0,0,33.0 pounds,Jessie
+1,1,Mr. Charles Hallace Romaine,male,45.0,0,0,26.55 pounds,Charles
+0,3,Mr. Harry Corn,male,30.0,0,0,8.05 pounds,Harry
+0,3,Mr. William Arthur Lobb,male,30.0,1,0,16.1 pounds,William
+0,3,Mr. Denis Lennon,male,20.0,1,0,15.5 pounds,Denis
+0,1,Mr. Timothy J McCarthy,male,54.0,0,0,51.8625 pounds,Timothy
+1,1,Miss. Elizabeth W Shutes,female,40.0,0,0,153.4625 pounds,Elizabeth
+1,2,Mrs. William (Imanita Parrish Hall) Shelley,female,25.0,0,1,26.0 pounds,Imanita
+1,3,Mrs. Percival (Florence Kate White) Thorneycroft,female,33.0,1,0,16.1 pounds,Florence
+0,3,Mr. William Cahoone Jr Johnson,male,19.0,0,0,0.0 pounds,William
+0,2,Mr. Harvey Collyer,male,31.0,1,1,26.25 pounds,Harvey
+0,3,Master. William Frederick Goodwin,male,11.0,5,2,46.9 pounds,William
+1,2,Miss. Joan Wells,female,4.0,1,1,23.0 pounds,Joan
+0,2,Dr. Ernest Moraweck,male,54.0,0,0,14.0 pounds,Ernest
+0,1,Mrs. Hudson J C (Bessie Waldo Daniels) Allison,female,25.0,1,2,151.55 pounds,Bessie
+1,1,Mlle. Berthe Antonine Mayne,female,24.0,0,0,49.5042 pounds,Berthe
+1,1,Miss. Elsie Edith Bowerman,female,22.0,0,1,55.0 pounds,Elsie
+0,1,Mr. Alexander Oskar Holverson,male,42.0,1,0,52.0 pounds,Alexander
+0,2,Mr. Samuel James Hayden Sobey,male,25.0,0,0,13.0 pounds,Samuel
+0,1,Mr. Henry Birkhardt Harris,male,45.0,1,0,83.475 pounds,Henry
+1,2,Mr. Julian Padro y Manent,male,27.0,0,0,13.8625 pounds,Julian
+1,2,Mrs. Samuel (Jane Laver) Herman,female,48.0,1,2,65.0 pounds,Jane
+0,3,Miss. Catharina Van Impe,female,10.0,0,2,24.15 pounds,Catharina
+0,3,Mr. Josef Arnold-Franchi,male,25.0,1,0,17.8 pounds,Josef
+0,3,Mr. Youssef Samaan,male,16.0,2,0,21.6792 pounds,Youssef
+1,3,Miss. Luise Gretchen Kink-Heilmann,female,4.0,0,2,22.025 pounds,Luise
+0,3,Mr. Simon Maisner,male,34.0,0,0,8.05 pounds,Simon
+1,2,Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe,female,29.0,1,0,26.0 pounds,Elizabeth
+0,3,Mr. Johan Emil Petterson,male,25.0,1,0,7.775 pounds,Johan
+0,3,Mr. Peju Coleff,male,36.0,0,0,7.4958 pounds,Peju
+1,1,Mr. Thomas Drake Martinez Cardeza,male,36.0,0,1,512.3292 pounds,Thomas
+1,1,Miss. Ellen Barber,female,26.0,0,0,78.85 pounds,Ellen
+0,3,Mr. Jakob Alfred Johanson,male,34.0,0,0,6.4958 pounds,Jakob
+1,1,Mr. George Bradley,male,37.0,0,0,26.55 pounds,George
+0,3,Mr. Wazli Yousif,male,23.0,0,0,7.225 pounds,Wazli
+1,1,Miss. Elizabeth Bonnell,female,58.0,0,0,26.55 pounds,Elizabeth
+1,1,Miss. Margaret Fleming,female,42.0,0,0,110.8833 pounds,Margaret
+0,3,Mr. Thomas J Kilgannon,male,22.0,0,0,7.7375 pounds,Thomas
+0,3,Mr. Gerious Youseff,male,45.5,0,0,7.225 pounds,Gerious
+0,2,Mr. Lewis Hickman,male,32.0,2,0,73.5 pounds,Lewis
+1,2,Miss. Lyyli Karoliina Silven,female,18.0,0,2,13.0 pounds,Lyyli
+0,1,Dr. Arthur Jackson Brewe,male,46.0,0,0,39.6 pounds,Arthur
+0,2,Mr. Frederick William Pengelly,male,19.0,0,0,10.5 pounds,Frederick
+1,1,Mrs. James (Helene DeLaudeniere Chaput) Baxter,female,50.0,0,1,247.5208 pounds,Helene
+0,3,Mr. Jean Baptiste Van Impe,male,36.0,1,1,24.15 pounds,Jean
+0,2,Mr. Nicholas Nasser,male,32.5,1,0,30.0708 pounds,Nicholas
+1,1,Dr. Max Stahelin-Maeglin,male,32.0,0,0,30.5 pounds,Max
+0,1,Mr. Victor Giglio,male,24.0,0,0,79.2 pounds,Victor
+0,3,Mr. John Adams,male,26.0,0,0,8.05 pounds,John
+0,3,Miss. Agda Thorilda Viktoria Lindahl,female,25.0,0,0,7.775 pounds,Agda
+0,3,Mr. Marin Markoff,male,35.0,0,0,7.8958 pounds,Marin
+1,1,Mrs. Edward Dale (Charlotte Lamson) Appleton,female,53.0,2,0,51.4792 pounds,Charlotte
+0,3,Mr. Ernst Gilbert Danbom,male,34.0,1,1,14.4 pounds,Ernst
+1,1,Mme. Leontine Pauline Aubart,female,24.0,0,0,69.3 pounds,Leontine
+1,2,Miss. Kate Florence Phillips,female,19.0,0,0,26.0 pounds,Kate
+0,1,Mr. Thomas Clinton Pears,male,29.0,1,0,66.6 pounds,Thomas
+1,1,Master. Washington Dodge,male,4.0,0,2,81.8583 pounds,Washington
+0,2,Rev. Juozas Montvila,male,27.0,0,0,13.0 pounds,Juozas
+0,1,Mr. Milton Clyde Long,male,29.0,0,0,30.0 pounds,Milton
+1,3,Miss. Lillian Gertrud Asplund,female,5.0,4,2,31.3875 pounds,Lillian
+0,3,Master. Henry Forbes Lefebre,male,5.0,3,1,25.4667 pounds,Henry
+0,2,Mr. Joseph J Fynney,male,35.0,0,0,26.0 pounds,Joseph
+1,1,Mrs. Edward Scott (Elisabeth Walton McMillan) Robert,female,43.0,0,1,211.3375 pounds,Elisabeth
+0,2,Mr. Edgardo Samuel Andrew,male,18.0,0,0,11.5 pounds,Edgardo
+0,3,Mr. Richard Cater Nosworthy,male,21.0,0,0,7.8 pounds,Richard
+0,3,Miss. Robina Maggie Ford,female,9.0,2,2,34.375 pounds,Robina
+1,3,Miss. Anna Kristine Salkjelsvik,female,21.0,0,0,7.65 pounds,Anna
+0,3,Mr. Sigurd Hansen Moen,male,25.0,0,0,7.65 pounds,Sigurd
+1,3,Mr. Berk (Berk Trembisky) Pickard,male,32.0,0,0,8.05 pounds,Berk
+1,1,Miss. Gladys Cherry,female,30.0,0,0,86.5 pounds,Gladys
+1,1,Mrs. Henry Sleeper (Myna Haxtun) Harper,female,49.0,1,0,76.7292 pounds,Myna
+0,3,Master. Arthur Rice,male,4.0,4,1,29.125 pounds,Arthur
+0,1,Mr. Emil Taussig,male,52.0,1,1,79.65 pounds,Emil
+0,1,Mr. Tyrell William Cavendish,male,36.0,1,0,78.85 pounds,Tyrell
+1,3,Miss. Hildur E Hirvonen,female,2.0,0,1,12.2875 pounds,Hildur
+0,3,Mr. Howard Hugh Williams,male,28.0,0,0,8.05 pounds,Howard
+0,3,Mr. Lalio Todoroff,male,23.0,0,0,7.8958 pounds,Lalio
+1,1,Miss. Sara Rebecca Compton,female,39.0,1,1,83.1583 pounds,Sara
+1,1,Mrs. Alexander Oskar (Mary Aline Towner) Holverson,female,35.0,1,0,52.0 pounds,Mary
+1,1,Mr. James Robert McGough,male,36.0,0,0,26.2875 pounds,James
+0,2,Rev. Charles Leonard Kirkland,male,57.0,0,0,12.35 pounds,Charles
+0,3,Miss. Matilda Petranec,female,28.0,0,0,7.8958 pounds,Matilda
+0,3,Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe,female,30.0,1,1,24.15 pounds,Rosalie
+0,3,Mr. Alfred J Davies,male,24.0,2,0,24.15 pounds,Alfred
+0,3,Mr. Andrew Keane,male,20.0,0,0,7.75 pounds,Andrew
+1,3,Mr. Karl Edwart Dahl,male,45.0,0,0,8.05 pounds,Karl
+0,3,Mr. Nils August Karlsson,male,22.0,0,0,7.5208 pounds,Nils
+1,1,Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana,female,17.0,1,0,108.9 pounds,Maria
+1,1,Mr. John Irwin Flynn,male,36.0,0,0,26.3875 pounds,John
+1,2,Miss. Amelia Brown,female,24.0,0,0,13.0 pounds,Amelia
+0,3,Mr. Joseph Jr Elias,male,17.0,1,1,7.2292 pounds,Joseph
+0,3,Mr. Jaako Arnold Panula,male,14.0,4,1,39.6875 pounds,Jaako
+0,3,Mr. Stjepan Turcin,male,36.0,0,0,7.8958 pounds,Stjepan
+0,2,Mr. David Reeves,male,36.0,0,0,10.5 pounds,David
+0,3,Mr. Edvard Bengtsson Lindell,male,36.0,1,0,15.55 pounds,Edvard
+1,1,Sir. Cosmo Edmund Duff Gordon,male,49.0,1,0,56.9292 pounds,Cosmo
+0,2,Mr. Francis Parkes,male,21.0,0,0,0.0 pounds,Francis
+0,2,Mr. Rene Pernot,male,39.0,0,0,15.05 pounds,Rene
+0,3,Mr. Edvard Pekoniemi,male,21.0,0,0,7.925 pounds,Edvard
+1,2,Mrs. Sinai (Miriam Sternin) Kantor,female,24.0,1,0,26.0 pounds,Miriam
+0,3,Mr. Carl/Charles Peter Widegren,male,51.0,0,0,7.75 pounds,Carl/Charles
+1,2,Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn,female,24.0,2,1,27.0 pounds,Amy
+1,2,Miss. Asuncion Duran y More,female,27.0,1,0,13.8583 pounds,Asuncion
+1,1,Miss. Amelia Bissette,female,35.0,0,0,135.6333 pounds,Amelia
+1,2,Miss. Anna Sinkkonen,female,30.0,0,0,13.0 pounds,Anna
+0,3,Mr. Henry Damsgaard Hansen,male,21.0,0,0,7.8542 pounds,Henry
+1,3,Mrs. Thomas Henry (Mary E Finck) Davison,female,34.0,1,0,16.1 pounds,Mary
+0,3,Mr. Jacob Cook,male,43.0,0,0,8.05 pounds,Jacob
+1,2,Master. Michel M Navratil,male,3.0,1,1,26.0 pounds,Michel
+1,2,Mr. Lawrence Beesley,male,34.0,0,0,13.0 pounds,Lawrence
+0,3,Miss. Bridget Mary O'Sullivan,female,21.0,0,0,7.6292 pounds,Bridget
+0,3,Mr. Stoytcho Mionoff,male,28.0,0,0,7.8958 pounds,Stoytcho
+0,1,Mr. Harry Markland Molson,male,55.0,0,0,30.5 pounds,Harry
+1,1,Mr. Maxmillian Frolicher-Stehli,male,60.0,1,1,79.2 pounds,Maxmillian
+0,3,Master. Sigvard Harald Elias Andersson,male,4.0,4,2,31.275 pounds,Sigvard
+0,3,Mr. Thomas O'Brien,male,27.0,1,0,15.5 pounds,Thomas
+0,1,Mr. Charles Alexander Fortune,male,19.0,3,2,263.0 pounds,Charles
+0,3,Miss. Stina Viola Palsson,female,3.0,3,1,21.075 pounds,Stina
+1,1,Miss. Emily Borie Ryerson,female,18.0,2,2,262.375 pounds,Emily
+1,3,Miss. Kate Connolly,female,22.0,0,0,7.75 pounds,Kate
+0,3,Mr. Joseph Peduzzi,male,24.0,0,0,8.05 pounds,Joseph
+0,3,Mr. Alfred George John Rush,male,16.0,0,0,8.05 pounds,Alfred
+1,2,Mrs. Elizabeth (Eliza Needs) Hocking,female,54.0,1,3,23.0 pounds,Eliza
+0,3,Mr. Thor Anderson Olsvigen,male,20.0,0,0,9.225 pounds,Thor
+0,2,Mr. Edwy Arthur West,male,36.0,1,2,27.75 pounds,Edwy
+1,3,Miss. Bertha Moran,female,28.0,1,0,24.15 pounds,Bertha
+1,1,Mrs. Jacques Heath (Lily May Peel) Futrelle,female,35.0,1,0,53.1 pounds,Lily
+1,3,Miss. Mary Agatha Glynn,female,18.0,0,0,7.75 pounds,Mary
+0,2,Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin,female,27.0,1,0,21.0 pounds,Dorothy
+1,3,Miss. Laina Heikkinen,female,26.0,0,0,7.925 pounds,Laina
+1,3,Mr. William Henry Tornquist,male,25.0,0,0,0.0 pounds,William
+0,2,Mr. Kurt Arnold Gottfrid Bryhl,male,25.0,1,0,26.0 pounds,Kurt
+0,3,Miss. Marija Cacic,female,30.0,0,0,8.6625 pounds,Marija
+1,1,Mr. Edwin Nelson Jr Kimball,male,42.0,1,0,52.5542 pounds,Edwin
+1,3,Master. Edvin Rojj Felix Asplund,male,3.0,4,2,31.3875 pounds,Edvin
+0,3,Mr. Luka Cacic,male,38.0,0,0,8.6625 pounds,Luka
+0,3,Mr. Matti Alexanteri Maenpaa,male,22.0,0,0,7.125 pounds,Matti
+1,1,Mr. Hugh Woolner,male,46.0,0,0,35.5 pounds,Hugh
+1,3,Miss. Bridget O'Driscoll,female,27.0,0,0,7.75 pounds,Bridget
+0,1,Col. John Weir,male,60.0,0,0,26.55 pounds,John
+0,3,Mr. Mohamed Badt,male,40.0,0,0,7.225 pounds,Mohamed
+0,2,Mr. Percy Andrew Bailey,male,18.0,0,0,11.5 pounds,Percy
+1,1,Miss. Mary Natalie Wick,female,31.0,0,2,164.8667 pounds,Mary
+0,2,Mr. Joseph Philippe Lemercier Laroche,male,25.0,1,2,41.5792 pounds,Joseph
+0,3,Mr. Frank John Goldsmith,male,33.0,1,1,20.525 pounds,Frank
+0,3,Mr. Sarkis Lahoud,male,35.0,0,0,7.225 pounds,Sarkis
+1,1,Mr. William Thompson Sloper,male,28.0,0,0,35.5 pounds,William
+0,3,Mr. George Henry Green,male,51.0,0,0,8.05 pounds,George
+1,3,Miss. Velin Ohman,female,22.0,0,0,7.775 pounds,Velin
+0,3,Mr. Lee Ling,male,28.0,0,0,56.4958 pounds,Lee
+0,3,Mr. Edward Willey,male,21.0,0,0,7.55 pounds,Edward
+1,3,Miss. Amy Zillah Elsie Stanley,female,23.0,0,0,7.55 pounds,Amy
+0,3,Mr. Leon Hampe,male,20.0,0,0,9.5 pounds,Leon
+1,2,Master. Richard F Becker,male,1.0,2,1,39.0 pounds,Richard
+0,3,Master. Juha Niilo Panula,male,7.0,4,1,39.6875 pounds,Juha
+0,3,Mr. Christo Nenkoff,male,22.0,0,0,7.8958 pounds,Christo
+1,1,Mr. Gustave J Lesurer,male,35.0,0,0,512.3292 pounds,Gustave
+0,2,Mr. Richard George Hocking,male,23.0,2,1,11.5 pounds,Richard
+0,1,Mr. John Farthing,male,49.0,0,0,221.7792 pounds,John
+0,1,Mr. Frans Olof Carlsson,male,33.0,0,0,5.0 pounds,Frans
+0,2,Rev. Thomas Roussel Davids Byles,male,42.0,0,0,13.0 pounds,Thomas
+0,3,Miss. Hulda Amanda Adolfina Vestrom,female,14.0,0,0,7.8542 pounds,Hulda
+0,1,Mr. Walter Chamberlain Porter,male,47.0,0,0,52.0 pounds,Walter
+0,3,Mr. Ilia Stoytcheff,male,19.0,0,0,7.8958 pounds,Ilia
+1,2,Mrs. Edward (Ethel Clarke) Beane,female,19.0,1,0,26.0 pounds,Ethel
+0,3,Master. Eugene Rice,male,2.0,4,1,29.125 pounds,Eugene
+1,2,Mrs. Leopold (Mathilde Francoise Pede) Weisz,female,29.0,1,0,26.0 pounds,Mathilde
+0,3,Mr. Charles Joseph Shorney,male,22.0,0,0,8.05 pounds,Charles
+0,2,Mr. Hans Kristensen Givard,male,30.0,0,0,13.0 pounds,Hans
+1,1,Mr. Karl Howell Behr,male,26.0,0,0,30.0 pounds,Karl
+0,3,Mr. Klas Albin Klasen,male,18.0,1,1,7.8542 pounds,Klas
+0,1,Mr. Benjamin Laventall Foreman,male,30.0,0,0,27.75 pounds,Benjamin
+0,3,Mr. Karl Ivar Sven Berglund,male,22.0,0,0,9.35 pounds,Karl
+0,3,Mr. Leslie Williams,male,28.5,0,0,16.1 pounds,Leslie
+1,3,Mr. Juha Niskanen,male,39.0,0,0,7.925 pounds,Juha
+0,3,Mr. Svend Lauritz Jensen,male,17.0,1,0,7.0542 pounds,Svend
+0,3,Master. Karl Thorsten Skoog,male,10.0,3,2,27.9 pounds,Karl
+1,1,Miss. Helen Monypeny Newsom,female,19.0,0,2,26.2833 pounds,Helen
+1,2,Master. Andre Mallet,male,1.0,0,2,37.0042 pounds,Andre
+0,3,Mrs. Joseph (Sultana) Boulos,female,40.0,0,2,15.2458 pounds,Sultana
+0,3,Mr. Eliezer Gilinski,male,22.0,0,0,8.05 pounds,Eliezer
+1,1,Dr. Alice (Farnham) Leader,female,49.0,0,0,25.9292 pounds,Farnham
+0,3,Miss. Mary Canavan,female,21.0,0,0,7.75 pounds,Mary
+1,2,Miss. Marion Elsie Smith,female,40.0,0,0,13.0 pounds,Marion
+0,3,Mr. Edward Roland Stanley,male,21.0,0,0,8.05 pounds,Edward
+0,3,Miss. Augusta Maria Vander Planke,female,18.0,2,0,18.0 pounds,Augusta
+1,1,Mrs. Thomas (Edith Wearne) Pears,female,22.0,1,0,66.6 pounds,Edith
+1,2,Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown,female,40.0,1,1,39.0 pounds,Elizabeth
+1,1,Mrs. Thomas Jr (Lily Alexenia Wilson) Potter,female,56.0,0,1,83.1583 pounds,Lily
+1,1,Mr. Algernon Henry Wilson Barkworth,male,80.0,0,0,30.0 pounds,Algernon
+0,3,Mrs. Viktor (Helena Wilhelmina) Rosblom,female,41.0,0,2,20.2125 pounds,Helena
+1,3,Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,female,24.0,0,2,16.7 pounds,Agnes
+1,3,Miss. Elizabeth Dowdell,female,30.0,0,0,12.475 pounds,Elizabeth
+0,3,Mr. Alfred Ossian Gustafsson,male,20.0,0,0,9.8458 pounds,Alfred
+1,2,Miss. Edwina Celia Troutt,female,27.0,0,0,10.5 pounds,Edwina
+0,3,Miss. Ebba Iris Alfrida Andersson,female,6.0,4,2,31.275 pounds,Ebba
+0,1,Mr. Ervin G Lewy,male,30.0,0,0,27.7208 pounds,Ervin
+1,2,Mrs. (Rosa) Pinsky,female,32.0,0,0,13.0 pounds,Rosa
+0,3,Mr. Einar Windelov,male,21.0,0,0,7.25 pounds,Einar
+1,3,Master. Eden Leslie Coutts,male,9.0,1,1,15.9 pounds,Eden
+0,3,Mr. Houssein G N Hassan,male,11.0,0,0,18.7875 pounds,Houssein
+0,2,Mr. Stanley George Hickman,male,21.0,2,0,73.5 pounds,Stanley
+0,2,Mr. Leonard Mark Hickman,male,24.0,2,0,73.5 pounds,Leonard
+0,3,Mr. John Flynn,male,36.0,0,0,6.95 pounds,John
+1,1,Mr. Harry Anderson,male,48.0,0,0,26.55 pounds,Harry
+1,1,Mrs. John Jacob (Madeleine Talmadge Force) Astor,female,18.0,1,0,227.525 pounds,Madeleine
+0,3,Mr. James Farrell,male,40.5,0,0,7.75 pounds,James
+0,3,Mr. Bertram Frank Dean,male,26.0,1,2,20.575 pounds,Bertram
+1,3,Mr. Theodore de Mulder,male,30.0,0,0,9.5 pounds,Theodore
+0,1,Mr. Charles Duane Williams,male,51.0,0,1,61.3792 pounds,Charles
+0,3,Miss. Katriina Jussila,female,20.0,1,0,9.825 pounds,Katriina
+1,3,Miss. Manca Karun,female,4.0,0,1,13.4167 pounds,Manca
+0,3,Mr. Peter Andreas Lauritz Andersen Soholt,male,19.0,0,0,7.65 pounds,Peter
+1,1,Mrs. John Borland (Marian Longstreth Morris) Thayer,female,39.0,1,1,110.8833 pounds,Marian
+0,2,Rev. Ernest Courtenay Carter,male,54.0,1,0,26.0 pounds,Ernest
+0,3,Mr. Todor Sdycoff,male,42.0,0,0,7.8958 pounds,Todor
+0,3,Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom,female,28.0,1,1,14.4 pounds,Anna
+1,1,Miss. Mary Conover Lines,female,16.0,0,1,39.4 pounds,Mary
+0,3,Mr. Gustaf Joel Johansson,male,33.0,0,0,8.6542 pounds,Gustaf
+1,2,Mrs. (Elizabeth Anne Maidment) Mellinger,female,41.0,0,1,19.5 pounds,Elizabeth
+0,3,Mr. William Thomas Beavan,male,19.0,0,0,8.05 pounds,William
+0,3,Mr. Thomas Rowan Morrow,male,30.0,0,0,7.75 pounds,Thomas
+0,3,Mr. Antoni Yasbeck,male,27.0,1,0,14.4542 pounds,Antoni
+0,2,Mr. Ernst Adolf Sjostedt,male,59.0,0,0,13.5 pounds,Ernst
+0,2,Miss. Annie Clemmer Funk,female,38.0,0,0,13.0 pounds,Annie
+0,3,Mr. Ignjac Hendekovic,male,28.0,0,0,7.8958 pounds,Ignjac
+0,3,Mr. Kristo Laleff,male,23.0,0,0,7.8958 pounds,Kristo
+0,3,Mr. Ristiu Dantcheff,male,25.0,0,0,7.8958 pounds,Ristiu
+0,3,Mr. Wilhelm Skoog,male,40.0,1,4,27.9 pounds,Wilhelm
+0,3,Mr. Ernest Portage Tomlin,male,30.5,0,0,8.05 pounds,Ernest
+0,3,Mr. August Sigfrid Carlsson,male,28.0,0,0,7.7958 pounds,August
+0,1,Mr. John Montgomery Smart,male,56.0,0,0,26.55 pounds,John
+1,2,Miss. Eva Miriam Hart,female,7.0,0,2,26.25 pounds,Eva
+0,3,Mr. Peter L Lemberopolous,male,34.5,0,0,6.4375 pounds,Peter
+1,3,Mr. Edward Arthur Dorking,male,19.0,0,0,8.05 pounds,Edward
+0,2,Mr. Charles Frederick Waddington Sedgwick,male,25.0,0,0,13.0 pounds,Charles
+0,3,Mr. Ivan Staneff,male,23.0,0,0,7.8958 pounds,Ivan
+1,1,Mr. Albert Adrian Dick,male,31.0,1,0,57.0 pounds,Albert
+0,2,Mr. Rene Jacques Levy,male,36.0,0,0,12.875 pounds,Rene
+0,2,Mr. Henry Michael Mitchell,male,70.0,0,0,10.5 pounds,Henry
+0,3,Mr. Neal McNamee,male,24.0,1,0,16.1 pounds,Neal
+1,2,Mrs. James (Elizabeth Inglis Milne) Watt,female,40.0,0,0,15.75 pounds,Elizabeth
+0,3,Miss. Katie Peters,female,28.0,0,0,8.1375 pounds,Katie
+1,3,Mr. August Edvard Andersson,male,27.0,0,0,7.7958 pounds,August
+0,2,Rev. John Harper,male,28.0,0,1,33.0 pounds,John
+0,3,Miss. Lillian Amy Goodwin,female,16.0,5,2,46.9 pounds,Lillian
+1,3,Mr. Thomas Joseph McCormack,male,19.0,0,0,7.75 pounds,Thomas
+0,2,Mr. Henry Price Hodges,male,50.0,0,0,13.0 pounds,Henry
+0,3,Mr. Orsen Sirayanian,male,22.0,0,0,7.2292 pounds,Orsen
+0,2,Mr. George Floyd Eitemiller,male,23.0,0,0,13.0 pounds,George
+1,2,Master. Viljo Hamalainen,male,0.67,1,1,14.5 pounds,Viljo
+1,1,Miss. Alice Cleaver,female,22.0,0,0,151.55 pounds,Alice
+1,1,Miss. Harriet R Crosby,female,36.0,0,2,71.0 pounds,Harriet
+0,2,Mr. William Campbell,male,21.0,0,0,0.0 pounds,William
+0,3,Mr. Alexander Radeff,male,27.0,0,0,7.8958 pounds,Alexander
+0,3,Miss. Ingeborg Constanzia Andersson,female,9.0,4,2,31.275 pounds,Ingeborg
+1,3,Miss. Anna Sofia Nysten,female,22.0,0,0,7.75 pounds,Anna
+0,3,Mrs. Josef (Josefine Franchi) Arnold-Franchi,female,18.0,1,0,17.8 pounds,Josefine
+0,3,Mr. Antti Wilhelm Sivola,male,21.0,0,0,7.925 pounds,Antti
+0,1,Mr. Edgar Joseph Meyer,male,28.0,1,0,82.1708 pounds,Edgar
+1,2,Mrs. Benjamin (Esther Ada Bloomfield) Hart,female,45.0,1,1,26.25 pounds,Esther
+0,1,Mr. Mark Fortune,male,64.0,1,4,263.0 pounds,Mark
+0,3,Mr. Achille Waelens,male,22.0,0,0,9.0 pounds,Achille
+1,3,Mr. Choong Foo,male,32.0,0,0,56.4958 pounds,Choong
+1,3,Miss. Anna Katherine Kelly,female,20.0,0,0,7.75 pounds,Anna
+1,1,Miss. Georgette Alexandra Madill,female,15.0,0,1,211.3375 pounds,Georgette
+1,2,Mrs. Charles Alexander (Alice Adelaide Slow) Louch,female,42.0,1,0,26.0 pounds,Alice
+0,3,Miss. Elina Olsson,female,31.0,0,0,7.8542 pounds,Elina
+1,3,Miss. Jamila Nicola-Yarred,female,14.0,1,0,11.2417 pounds,Jamila
+0,1,Mr. Herbert Fuller Chaffee,male,46.0,1,0,61.175 pounds,Herbert
+0,3,Mr. Knud Paust Rommetvedt,male,49.0,0,0,7.775 pounds,Knud
+0,1,Mr. Thomas Jr Andrews,male,39.0,0,0,0.0 pounds,Thomas
+0,3,Miss. Alice Phoebe Harknett,female,21.0,0,0,7.55 pounds,Alice
+1,1,Mrs. Dickinson H (Helen Walton) Bishop,female,19.0,1,0,91.0792 pounds,Helen
+1,1,Lady. (Lucille Christiana Sutherland)Duff Gordon,female,48.0,1,0,39.6 pounds,Lucille
+1,2,Miss. Annie Jessie Harper,female,6.0,0,1,33.0 pounds,Annie
+0,3,Mr. Karl Siegwart Andreas Olsen,male,42.0,0,1,8.4042 pounds,Karl
+0,3,Mr. Iisakki Antino Aijo Nirva,male,41.0,0,0,7.125 pounds,Iisakki
+0,2,Mr. Richard Otter,male,39.0,0,0,13.0 pounds,Richard
+1,3,Mr. Juho Stranden,male,31.0,0,0,7.925 pounds,Juho
+1,3,Mr. Fahim Leeni,male,22.0,0,0,7.225 pounds,Fahim
+1,3,Mrs. Antoni (Selini Alexander) Yasbeck,female,15.0,1,0,14.4542 pounds,Selini
+0,3,Mr. Dibo Elias,male,29.0,0,0,7.225 pounds,Dibo
+1,3,Master. Harold Theodor Johnson,male,4.0,1,1,11.1333 pounds,Harold
+0,3,Mr. Johan Werner Salonen,male,39.0,0,0,7.925 pounds,Johan
+0,2,Mr. Thomas William Solomon Brown,male,60.0,1,1,39.0 pounds,Thomas
+0,3,Mr. Olaf Elon Osen,male,16.0,0,0,9.2167 pounds,Olaf
+1,3,Miss. Mary McGovern,female,22.0,0,0,7.8792 pounds,Mary
+1,3,Mr. Sahid Nakid,male,20.0,1,1,15.7417 pounds,Sahid
+0,2,Miss. Henriette Yrois,female,24.0,0,0,13.0 pounds,Henriette
+0,3,Mr. John Simmons,male,40.0,0,0,8.05 pounds,John
+1,3,Miss. Aurora Adelia Landergren,female,22.0,0,0,7.25 pounds,Aurora
+0,2,Mr. William Carbines,male,19.0,0,0,13.0 pounds,William
+0,3,Mr. John Henry Perkin,male,22.0,0,0,7.25 pounds,John
+0,2,Mr. Shadrach Gale,male,34.0,1,0,21.0 pounds,Shadrach
+0,3,Mr. Nedelio Petroff,male,19.0,0,0,7.8958 pounds,Nedelio
+1,3,Mr. Bernt Johannesen-Bratthammer,male,29.0,0,0,8.1125 pounds,Bernt
+1,2,Miss. Alice Herman,female,24.0,1,2,65.0 pounds,Alice
+0,3,Mr. Thomas Leonard Theobald,male,34.0,0,0,8.05 pounds,Thomas
+0,3,Miss. Thamine Zabour,female,19.0,1,0,14.4542 pounds,Thamine
+0,3,Mr. John Hall Lovell,male,20.5,0,0,7.25 pounds,John
+1,3,Miss. Katherine Mullens,female,19.0,0,0,7.7333 pounds,Katherine
+0,2,Mr. Reginald Fenton Butler,male,25.0,0,0,13.0 pounds,Reginald
+0,2,Mr. Charles Henry Chapman,male,52.0,0,0,13.5 pounds,Charles
+0,2,Mr. John Denzil Jarvis,male,47.0,0,0,15.0 pounds,John
+0,3,Mr. Karl Alfred Backstrom,male,32.0,1,0,15.85 pounds,Karl
+1,3,Miss. Hanora Healy,female,33.0,0,0,7.75 pounds,Hanora
+0,1,Mr. John Hugo Ross,male,36.0,0,0,40.125 pounds,John
+0,3,Mr. Arthur Keefe,male,39.0,0,0,7.25 pounds,Arthur
+0,3,Mr. Percival Thorneycroft,male,37.0,1,0,16.1 pounds,Percival
+0,3,Mr. Branko Dakic,male,19.0,0,0,10.1708 pounds,Branko
+0,1,Mr. Albert A Stewart,male,64.0,0,0,27.7208 pounds,Albert
+1,2,Mrs. Florence Kelly,female,45.0,0,0,13.5 pounds,Florence
+0,3,Mr. Phillippe Wiseman,male,54.0,0,0,7.25 pounds,Phillippe
+0,1,Mr. George Edward Graham,male,38.0,0,1,153.4625 pounds,George
+0,3,Mr. William James Elsbury,male,47.0,0,0,7.25 pounds,William
+0,3,Mr. Tannous Doharr,male,28.0,0,0,7.2292 pounds,Tannous
+1,1,Mrs. Henry William (Clara Heinsheimer) Frauenthal,female,42.0,1,0,133.65 pounds,Clara
+0,3,Master. Sidney Leonard Goodwin,male,1.0,5,2,46.9 pounds,Sidney
+0,3,Mr. Pastcho Petroff,male,29.0,0,0,7.8958 pounds,Pastcho
+0,3,Mr. Samuel Dennis,male,22.0,0,0,7.25 pounds,Samuel
+0,1,Mr. John D Baumann,male,60.0,0,0,25.925 pounds,John
+0,3,Mr. Nikolai Erland Kallio,male,17.0,0,0,7.125 pounds,Nikolai
+0,3,Mr. Ole Martin Olsen,male,27.0,0,0,7.3125 pounds,Ole
+0,3,Miss. Marija Oreskovic,female,20.0,0,0,8.6625 pounds,Marija
+1,2,Miss. Kate Buss,female,36.0,0,0,13.0 pounds,Kate
+0,3,Mr. James Lester,male,39.0,0,0,24.15 pounds,James
+0,3,Master. George Hugh Rice,male,8.0,4,1,29.125 pounds,George
+0,2,Mr. Albert Mallet,male,31.0,1,1,37.0042 pounds,Albert
+1,1,Mr. Peter Denis Daly,male,51.0,0,0,26.55 pounds,Peter
+1,2,Mrs. Nicholas (Adele Achem) Nasser,female,14.0,1,0,30.0708 pounds,Adele
+1,1,Mr. Frederick Maxfield Hoyt,male,38.0,1,0,90.0 pounds,Frederick
+0,3,Mr. Jose Neto Jardin,male,21.0,0,0,7.05 pounds,Jose
+1,1,Miss. Amelie Icard,female,38.0,0,0,80.0 pounds,Amelie
+0,2,Mr. Walter Harris,male,30.0,0,0,10.5 pounds,Walter
+0,3,Mr. Johannes Joseph Vande Velde,male,33.0,0,0,9.5 pounds,Johannes
+1,1,Miss. Jean Gertrude Hippach,female,16.0,0,1,57.9792 pounds,Jean
+1,1,Miss. Marie Grice Young,female,36.0,0,0,135.6333 pounds,Marie
+0,2,Rev. Robert James Bateman,male,51.0,0,0,12.525 pounds,Robert
+1,3,Mrs. Thomas (Johanna Godfrey) O'Brien,female,26.0,1,0,15.5 pounds,Johanna
+1,1,Mr. Samuel L Goldenberg,male,49.0,1,0,89.1042 pounds,Samuel
+1,1,Miss. Lucile Polk Carter,female,14.0,1,2,120.0 pounds,Lucile
+0,3,Mr. Timothy O'Brien,male,21.0,0,0,7.8292 pounds,Timothy
+0,3,Mr. Johan Birger Gustafsson,male,28.0,2,0,7.925 pounds,Johan
+0,2,Mr. Charles Henry Davies,male,18.0,0,0,73.5 pounds,Charles
+0,3,Mr. Lionel Leonard,male,36.0,0,0,0.0 pounds,Lionel
+1,3,Master. Meier Moor,male,6.0,0,1,12.475 pounds,Meier
+1,1,Miss. Alice Elizabeth Fortune,female,24.0,3,2,263.0 pounds,Alice
+0,1,Mr. Ramon Artagaveytia,male,71.0,0,0,49.5042 pounds,Ramon
+1,1,Mr. Norman Campbell Chambers,male,27.0,1,0,53.1 pounds,Norman
+1,1,Mrs. (Edith Martha Bowerman) Chibnall,female,48.0,0,1,55.0 pounds,Edith
+1,1,Master. William Thornton II Carter,male,11.0,1,2,120.0 pounds,William
+1,3,Miss. Annie Jermyn,female,22.0,0,0,7.75 pounds,Annie
+1,3,Master. William Loch Coutts,male,3.0,1,1,15.9 pounds,William
+0,3,Master. Clarence Gustaf Hugo Asplund,male,9.0,4,2,31.3875 pounds,Clarence
+0,3,Mr. Henry Jr Sutehall,male,25.0,0,0,7.05 pounds,Henry
+1,1,Mr. Adolphe Saalfeld,male,47.0,0,0,30.5 pounds,Adolphe
+0,3,Mr. Daniel J Moran,male,28.0,1,0,24.15 pounds,Daniel
+0,3,Mr. Francis William Somerton,male,30.0,0,0,8.05 pounds,Francis
+0,1,Mr. Richard Fry,male,39.0,0,0,0.0 pounds,Richard
+1,1,Mr. Spencer Victor Silverthorne,male,35.0,0,0,26.2875 pounds,Spencer
+1,1,Miss. Augusta Serepeca,female,30.0,0,0,31.0 pounds,Augusta
+0,3,Mr. Ivan Mineff,male,24.0,0,0,7.8958 pounds,Ivan
+1,1,Miss. Anna Ward,female,35.0,0,0,512.3292 pounds,Anna
+1,1,Miss. Hedwig Margaritha Frolicher,female,22.0,0,2,49.5 pounds,Hedwig
+1,1,Mr. Robert Williams Daniel,male,27.0,0,0,30.5 pounds,Robert
+0,1,Mr. Alexander Cairns,male,28.0,0,0,31.0 pounds,Alexander
+0,3,Mrs. William (Margaret Norton) Rice,female,39.0,0,5,29.125 pounds,Margaret
+0,2,Mr. Frederick James Banfield,male,28.0,0,0,10.5 pounds,Frederick
+0,1,Mr. Francis Davis Millet,male,65.0,0,0,26.55 pounds,Francis
+0,2,Mr. Stephen Hold,male,44.0,1,0,26.0 pounds,Stephen
+0,3,Mr. Nakli Toufik,male,17.0,0,0,7.2292 pounds,Nakli
+0,3,Mr. Mitto Denkoff,male,30.0,0,0,7.8958 pounds,Mitto
+0,3,Mr. John Horgan,male,22.0,0,0,7.75 pounds,John
+0,3,Miss. Torborg Danira Palsson,female,8.0,3,1,21.075 pounds,Torborg
+1,1,Mr. William Bertram Greenfield,male,23.0,0,1,63.3583 pounds,William
+0,3,Mr. Martin McMahon,male,19.0,0,0,7.75 pounds,Martin
+0,3,Mr. Mile Smiljanic,male,37.0,0,0,8.6625 pounds,Mile
+1,1,Miss. Kornelia Theodosia Andrews,female,63.0,1,0,77.9583 pounds,Kornelia
+0,1,Mr. Charles H Natsch,male,37.0,0,1,29.7 pounds,Charles
+1,2,Mr. Masabumi Hosono,male,42.0,0,0,13.0 pounds,Masabumi
+1,3,Master. Frank John William Goldsmith,male,9.0,0,2,20.525 pounds,Frank
+0,3,Mr. Hans Martin Monsen Birkeland,male,21.0,0,0,7.775 pounds,Hans
+1,2,Miss. Constance Mirium West,female,5.0,1,2,27.75 pounds,Constance
+0,3,Mr. Patrick Dooley,male,32.0,0,0,7.75 pounds,Patrick
+1,1,Miss. Margaret Edith Graham,female,19.0,0,0,30.0 pounds,Margaret
+0,3,Mr. Charles Edward Goodwin,male,14.0,5,2,46.9 pounds,Charles
+0,3,Mrs. Juha (Maria Emilia Ojala) Panula,female,41.0,0,5,39.6875 pounds,Maria
+0,3,Mr. Erik Johansson,male,22.0,0,0,7.7958 pounds,Erik
+0,3,Mr. Frederick Charles Sawyer,male,24.5,0,0,8.05 pounds,Frederick
+1,2,Mrs. (Elizabeth Ramell) Nye,female,29.0,0,0,10.5 pounds,Elizabeth
+1,1,Mrs. James Joseph (Margaret Tobin) Brown,female,44.0,0,0,27.7208 pounds,Margaret
+0,3,Miss. (Marion Ogden) Meanwell,female,62.0,0,0,8.05 pounds,Marion
+0,1,Dr. William Edward Minahan,male,44.0,2,0,90.0 pounds,William
+1,2,Miss. Mary Davis,female,28.0,0,0,13.0 pounds,Mary
+0,2,Mr. James H Bracken,male,27.0,0,0,13.0 pounds,James
+0,1,Mr. Austen Partner,male,45.5,0,0,28.5 pounds,Austen
+0,1,Mr. Victor de Satode Penasco y Castellana,male,18.0,1,0,108.9 pounds,Victor
+1,1,Mrs. Walter Bertram (Martha Eustis) Stephenson,female,52.0,1,0,78.2667 pounds,Martha
+1,3,Miss. Banoura Ayoub,female,13.0,0,0,7.2292 pounds,Banoura
+0,3,Mr. Frederick William Shellard,male,55.0,0,0,15.1 pounds,Frederick
+0,2,Dr. Alfred Pain,male,23.0,0,0,10.5 pounds,Alfred
+0,3,Mr. Matthew Sadlier,male,19.0,0,0,7.7292 pounds,Matthew
+0,3,Mr. William Alexander,male,26.0,0,0,7.8875 pounds,William
+1,3,Mr. Chang Chip,male,32.0,0,0,56.4958 pounds,Chang
+0,2,Mr. Benjamin Hart,male,43.0,1,1,26.25 pounds,Benjamin
+0,3,Mr. Mauritz Nils Martin Adahl,male,30.0,0,0,7.25 pounds,Mauritz
+1,1,Miss. Anne Perreault,female,30.0,0,0,93.5 pounds,Anne
+1,3,Mr. Johan Julian Sundman,male,44.0,0,0,7.925 pounds,Johan
+1,2,Mrs. William A (Florence Agnes Hughes) Angle,female,36.0,1,0,26.0 pounds,Florence
+1,1,Mrs. William Ernest (Lucile Polk) Carter,female,36.0,1,2,120.0 pounds,Lucile
+1,2,Miss. Marjorie Collyer,female,8.0,0,2,26.25 pounds,Marjorie
+0,3,Miss. Dorothy Edith Sage,female,14.0,8,2,69.55 pounds,Dorothy
+1,2,Mrs. James Vivian (Lulu Thorne Christian) Drew,female,34.0,1,1,32.5 pounds,Lulu
+0,1,Mr. William Baird Silvey,male,50.0,1,0,55.9 pounds,William
+0,3,Mr. Adolf Mathias Nicolai Olsen Humblen,male,42.0,0,0,7.65 pounds,Adolf
+1,2,Miss. Emily Rugg,female,21.0,0,0,10.5 pounds,Emily
+0,3,Mr. Cerin Balkic,male,26.0,0,0,7.8958 pounds,Cerin
+0,1,Mr. Percival Wayland White,male,54.0,0,1,77.2875 pounds,Percival
+1,3,Miss. Erna Alexandra Andersson,female,17.0,4,2,7.925 pounds,Erna
+1,3,Miss. Anna McGowan,female,15.0,0,0,8.0292 pounds,Anna
+0,3,Mrs. John (Catherine) Bourke,female,32.0,1,1,15.5 pounds,Catherine
+1,1,Major. Arthur Godfrey Peuchen,male,52.0,0,0,30.5 pounds,Arthur
+0,3,Miss. Ellis Anna Maria Andersson,female,2.0,4,2,31.275 pounds,Ellis
+0,1,Mr. Edward Pomeroy Colley,male,47.0,0,0,25.5875 pounds,Edward
+1,3,Mr. Fridtjof Arne Madsen,male,24.0,0,0,7.1417 pounds,Fridtjof
+1,3,Mrs. Catherine (Catherine Rizk) Peter,female,24.0,0,2,22.3583 pounds,Catherine
+0,3,Mr. David John Bowen,male,21.0,0,0,16.1 pounds,David
+1,3,Master. Bertram Vere Dean,male,1.0,1,2,20.575 pounds,Bertram
+1,3,Miss. Katherine Gilnagh,female,16.0,0,0,7.7333 pounds,Katherine
+0,3,Mr. Anders Vilhelm Gustafsson,male,37.0,2,0,7.925 pounds,Anders
+0,3,Mrs. Wilhelm (Elna Matilda Persson) Strom,female,29.0,1,1,10.4625 pounds,Elna
+0,2,Mr. Joseph Charles Nicholls,male,19.0,1,1,36.75 pounds,Joseph
+0,2,Mr. Frederick Edward Giles,male,21.0,1,0,11.5 pounds,Frederick
+0,3,Mr. Johan Svensson,male,74.0,0,0,7.775 pounds,Johan
+0,3,Mr. Ahmed Ali,male,24.0,0,0,7.05 pounds,Ahmed
+0,3,Mr. Kanio Ivanoff,male,20.0,0,0,7.8958 pounds,Kanio
+0,3,Mr. Rahamin Haim Moutal,male,28.0,0,0,8.05 pounds,Rahamin
+1,1,Miss. Mabel Helen Fortune,female,23.0,3,2,263.0 pounds,Mabel
+0,3,Master. Harald Skoog,male,4.0,3,2,27.9 pounds,Harald
+1,2,Mrs. John T (Ada Julia Bone) Doling,female,34.0,0,1,23.0 pounds,Ada
+0,2,Mr. Samuel Greenberg,male,52.0,0,0,13.0 pounds,Samuel
+0,3,Mrs. Johan (Johanna Persdotter Larsson) Ahlin,female,40.0,1,0,9.475 pounds,Johanna
+1,3,Mr. Carl Jonsson,male,32.0,0,0,7.8542 pounds,Carl
+0,3,Mr. Viktor Richard Rosblom,male,18.0,1,1,20.2125 pounds,Viktor
+1,1,Mr. Harry Homer,male,35.0,0,0,26.55 pounds,Harry
+1,1,Miss. Marjorie Newell,female,23.0,1,0,113.275 pounds,Marjorie
+0,3,Mr. Johann Markun,male,33.0,0,0,7.8958 pounds,Johann
+0,3,Mr. Guentcho Bostandyeff,male,26.0,0,0,7.8958 pounds,Guentcho
+0,3,Mr. Husein Sivic,male,40.0,0,0,7.8958 pounds,Husein
+0,3,Mr. Jakob Alfred Wiklund,male,18.0,1,0,6.4958 pounds,Jakob
+1,3,Mr. Hanna Mamee,male,18.0,0,0,7.2292 pounds,Hanna
+0,3,Mr. John Viktor Bengtsson,male,26.0,0,0,7.775 pounds,John
+0,3,Mr. Anthony Abbing,male,42.0,0,0,7.55 pounds,Anthony
+1,3,Mr. Carl Olof Jansson,male,21.0,0,0,7.7958 pounds,Carl
+0,2,Mr. Ambrose Jr Hood,male,21.0,0,0,73.5 pounds,Ambrose
+0,3,Mr. James Webber,male,66.0,0,0,8.05 pounds,James
+0,3,Mr. John Bourke,male,40.0,1,1,15.5 pounds,John
+1,3,Miss. Agnes McCoy,female,28.0,2,0,23.25 pounds,Agnes
+1,1,Miss. Caroline Louise Endres,female,38.0,0,0,227.525 pounds,Caroline
+0,3,Mrs. Thomas (Annie Louise Rowley) Meek,female,32.0,0,0,8.05 pounds,Annie
+0,3,Mr. Richard Henry Rouse,male,50.0,0,0,8.05 pounds,Richard
+1,3,Mrs. Darwis (Hanne Youssef Razi) Touma,female,29.0,0,2,15.2458 pounds,Hanne
+1,1,Mr. Mauritz Hakan Bjornstrom-Steffansson,male,28.0,0,0,26.55 pounds,Mauritz
+0,1,Mr. Walter Donald Douglas,male,50.0,1,0,106.425 pounds,Walter
+0,1,Miss. Ann Elizabeth Isham,female,50.0,0,0,28.7125 pounds,Ann
+0,3,Miss. Aloisia Haas,female,24.0,0,0,8.85 pounds,Aloisia
+0,3,Mrs. Joseph (Maria Elias) Caram,female,18.0,1,0,14.4583 pounds,Maria
+0,3,Mrs. William (Anna Bernhardina Karlsson) Skoog,female,45.0,1,4,27.9 pounds,Anna
+0,3,Mr. Manuel Estanslas Goncalves,male,38.0,0,0,7.05 pounds,Manuel
+0,3,Mr. Hans Linus Eklund,male,16.0,0,0,7.775 pounds,Hans
+0,3,Mr. Maurice Sirota,male,20.0,0,0,8.05 pounds,Maurice
+0,3,Mr. Karl Johan Johansson,male,31.0,0,0,7.775 pounds,Karl
+1,1,Mr. Richard Leonard Beckwith,male,37.0,1,1,52.5542 pounds,Richard
+1,2,Ms. Encarnacion Reynaldo,female,28.0,0,0,13.0 pounds,Encarnacion
+0,3,Mr. Abraham (David Lishin) Harmer,male,25.0,0,0,7.25 pounds,David
+0,3,Mr. Malkolm Joackim Johnson,male,33.0,0,0,7.775 pounds,Malkolm
+0,3,Mr. Leo Zimmerman,male,29.0,0,0,7.875 pounds,Leo
+0,3,Mr. Austin Blyler van Billiard,male,40.5,0,2,14.5 pounds,Austin
+0,3,Mr. Patrick D O'Connell,male,18.0,0,0,7.7333 pounds,Patrick
+1,1,Mrs. Henry Birkhardt (Irene Wallach) Harris,female,35.0,1,0,83.475 pounds,Irene
+0,1,Mr. Daniel Warner Marvin,male,19.0,1,0,53.1 pounds,Daniel
+0,2,Mr. Martin Ponesell,male,34.0,0,0,13.0 pounds,Martin
+1,2,Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche,female,22.0,1,2,41.5792 pounds,Juliette
+0,1,Mr. Jacques Heath Futrelle,male,37.0,1,0,53.1 pounds,Jacques
+1,3,Mr. Fang Lang,male,26.0,0,0,56.4958 pounds,Fang
+0,3,Mr. Konrad Mathias Reiersen Hagland,male,19.0,1,0,19.9667 pounds,Konrad
+0,2,Mr. Stephen Curnow Jenkin,male,32.0,0,0,10.5 pounds,Stephen
+0,3,Mr. Ernesti Arvid Panula,male,16.0,4,1,39.6875 pounds,Ernesti
+1,2,Mrs. Amin S (Marie Marthe Thuillard) Jerwan,female,23.0,0,0,13.7917 pounds,Marie
+0,2,Mr. Henry Samuel Morley,male,39.0,0,0,26.0 pounds,Henry
+0,2,Mr. William James Downton,male,54.0,0,0,26.0 pounds,William
+0,1,Mr. Richard Frasar White,male,21.0,0,1,77.2875 pounds,Richard
+0,3,Miss. Ellen Natalia Pettersson,female,18.0,0,0,7.775 pounds,Ellen
+1,3,Master. Elias Nicola-Yarred,male,12.0,1,0,11.2417 pounds,Elias
+0,3,Miss. Malake Attalah,female,17.0,0,0,14.4583 pounds,Malake
+1,3,Mr. Eiriik Jussila,male,32.0,0,0,7.925 pounds,Eiriik
+0,3,Mr. Tannous Betros,male,20.0,0,0,4.0125 pounds,Tannous
+0,3,Mr. Johan Ekstrom,male,45.0,0,0,6.975 pounds,Johan
+0,1,Mr. Benjamin Guggenheim,male,46.0,0,0,79.2 pounds,Benjamin
+0,1,Mr. George B Goldschmidt,male,71.0,0,0,34.6542 pounds,George
+0,2,Mr. Stanley Hubert Fox,male,36.0,0,0,13.0 pounds,Stanley
+0,2,Mr. Emile Richard,male,23.0,0,0,15.0458 pounds,Emile
+0,1,Mr. Victor Robbins,male,45.0,0,0,227.525 pounds,Victor
+1,3,Mr. Lee Bing,male,32.0,0,0,56.4958 pounds,Lee
+0,3,Mr. Mito Mitkoff,male,23.0,0,0,7.8958 pounds,Mito
+1,2,Mrs. Peter Henry (Lillian Jefferys) Renouf,female,30.0,3,0,21.0 pounds,Lillian
+0,3,Miss. Pieta Sofia Ilmakangas,female,25.0,1,0,7.925 pounds,Pieta
+0,3,Mr. Alfons de Pelsmaeker,male,16.0,0,0,9.5 pounds,Alfons
+0,1,Mr. Richard William Smith,male,57.0,0,0,26.0 pounds,Richard
+1,2,Mrs. (Lutie Davis) Parrish,female,50.0,0,1,26.0 pounds,Lutie
+0,3,Master. Thomas Henry Sage,male,5.0,8,2,69.55 pounds,Thomas
+0,3,Mr. Owen George Allum,male,18.0,0,0,8.3 pounds,Owen
+1,3,Miss. Marie Catherine Baclini,female,5.0,2,1,19.2583 pounds,Marie
+1,3,Miss. Helene Barbara Baclini,female,0.75,2,1,19.2583 pounds,Helene
+1,3,Miss. Ellen O'Dwyer,female,24.0,0,0,7.8792 pounds,Ellen
+0,3,Mr. Selman Francis Slocovski,male,20.0,0,0,8.05 pounds,Selman
+1,2,Miss. Hilda Mary Slayter,female,30.0,0,0,12.35 pounds,Hilda
+1,2,Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell,female,22.0,1,1,29.0 pounds,Sylvia
+1,2,Mr. George Harris,male,62.0,0,0,10.5 pounds,George
+1,3,Miss. Katherine Murphy,female,18.0,1,0,15.5 pounds,Katherine
+0,3,Mr. Pehr Fabian Oliver Malkolm Myhrman,male,18.0,0,0,7.75 pounds,Pehr
+1,3,Mr. Bernard McCoy,male,24.0,2,0,23.25 pounds,Bernard
+0,2,Mr. Thomas Charles Mudd,male,16.0,0,0,10.5 pounds,Thomas
+1,2,Miss. Clear Annie Cameron,female,35.0,0,0,21.0 pounds,Clear
+0,1,Mr. Arthur H Gee,male,47.0,0,0,38.5 pounds,Arthur
+0,3,Miss. Augusta Charlotta Lindblom,female,45.0,0,0,7.75 pounds,Augusta
+0,2,Mr. Robert J Knight,male,41.0,0,0,0.0 pounds,Robert
+0,3,Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson,female,39.0,1,5,31.275 pounds,Alfrida
+0,2,Mr. Arne Jonas Fahlstrom,male,18.0,0,0,13.0 pounds,Arne
+0,3,Master. Eric Rice,male,7.0,4,1,29.125 pounds,Eric
+0,2,Mr. Peter David McKane,male,46.0,0,0,26.0 pounds,Peter
+0,3,Mr. Jovan Dimic,male,42.0,0,0,8.6625 pounds,Jovan
+0,3,Mr. Jeso Culumovic,male,17.0,0,0,8.6625 pounds,Jeso
+0,3,Miss. Ida Lefebre,female,3.0,3,1,25.4667 pounds,Ida
+0,3,Mr. Ilmari Rudolf Alhomaki,male,20.0,0,0,7.925 pounds,Ilmari
+0,2,Mr. George Henry Hunt,male,33.0,0,0,12.275 pounds,George
+0,3,Mr. Samuel Beard Risien,male,69.0,0,0,14.5 pounds,Samuel
+0,3,Miss. Mathilde Lefebre,female,12.0,3,1,25.4667 pounds,Mathilde
+0,3,Miss. Ida Sofia Strandberg,female,22.0,0,0,9.8375 pounds,Ida
+0,3,Mr. Farred Chehab Emir,male,26.0,0,0,7.225 pounds,Farred
+0,1,Mr. Sante Ringhini,male,22.0,0,0,135.6333 pounds,Sante
+1,1,Miss. Margaret Bechstein Hays,female,24.0,0,0,83.1583 pounds,Margaret
+0,3,Mr. Vincenz Kink,male,26.0,2,0,8.6625 pounds,Vincenz
+0,3,Mr. Roger Tobin,male,20.0,0,0,7.75 pounds,Roger
+0,1,Mr. William Anderson Walker,male,47.0,0,0,34.0208 pounds,William
+0,1,Don. Manuel E Uruchurtu,male,40.0,0,0,27.7208 pounds,Manuel
+0,3,Mr. Apostolos Chronopoulos,male,26.0,1,0,14.4542 pounds,Apostolos
+1,1,Miss. Gretchen Fiske Longley,female,21.0,0,0,77.9583 pounds,Gretchen
+0,3,Mr. Niels Peder Jensen,male,48.0,0,0,7.8542 pounds,Niels
+0,1,Mr. Thornton Davidson,male,31.0,1,0,52.0 pounds,Thornton
+1,1,Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor,female,48.0,1,0,52.0 pounds,Juliet
+1,2,Miss. Ellen Toomey,female,50.0,0,0,10.5 pounds,Ellen
+0,3,Mr. Daniel Danielsen Gronnestad,male,32.0,0,0,8.3625 pounds,Daniel
+0,1,Mr. William Henry Marsh Parr,male,30.0,0,0,0.0 pounds,William
+1,2,Mrs. Samuel (Hannah Wizosky) Abelson,female,28.0,1,0,24.0 pounds,Hannah
+1,2,Miss. Bertha Ilett,female,17.0,0,0,10.5 pounds,Bertha
+0,3,Mr. James George Reed,male,18.0,0,0,7.25 pounds,James
+0,2,Mr. Sebastiano del Carlo,male,29.0,1,0,27.7208 pounds,Sebastiano
+1,1,Miss. Madeleine Newell,female,31.0,1,0,113.275 pounds,Madeleine
+0,3,Mr. Len Lam,male,23.0,0,0,56.4958 pounds,Len
+0,3,Mr. James Moran,male,27.0,0,0,8.4583 pounds,James
+0,3,Miss. Mari Aina Jussila,female,21.0,1,0,9.825 pounds,Mari
+0,1,Mr. Harry Elkins Widener,male,27.0,0,2,211.5 pounds,Harry
+0,3,Mr. Johan Hansen Nysveen,male,61.0,0,0,6.2375 pounds,Johan
+0,3,Mr. David Charters,male,21.0,0,0,7.7333 pounds,David
+0,3,Miss. Hanora Hegarty,female,18.0,0,0,6.75 pounds,Hanora
+0,3,Miss. Catherine Helen Johnston,female,7.0,1,2,23.45 pounds,Catherine
+1,3,Miss. Anna Peter,female,2.0,1,1,22.3583 pounds,Anna
+0,3,Mr. Penko Naidenoff,male,22.0,0,0,7.8958 pounds,Penko
+1,1,Mrs. Gertrude Maybelle Thorne,female,38.0,0,0,79.2 pounds,Gertrude
+1,3,Miss. Anna Sofia Sjoblom,female,18.0,0,0,7.4958 pounds,Anna
+1,1,Mr. Hammad Hassab,male,27.0,0,0,76.7292 pounds,Hammad
+1,3,Mr. Victor Francis Sunderland,male,16.0,0,0,8.05 pounds,Victor
+1,3,Miss. Adele Kiamie Najib,female,15.0,0,0,7.225 pounds,Adele
+1,2,Miss. Nora A Keane,female,46.0,0,0,12.35 pounds,Nora
+0,3,Mr. Jozef Drazenoic,male,33.0,0,0,7.8958 pounds,Jozef
+1,1,Mrs. Louis Albert (Ida Sophia Fischer) Hippach,female,44.0,0,1,57.9792 pounds,Ida
+1,1,Miss. Rosalie Bidois,female,42.0,0,0,227.525 pounds,Rosalie
+0,3,Mr. William Alfred Brocklebank,male,35.0,0,0,8.05 pounds,William
+1,3,Mrs. (Hedwig) Turkula,female,63.0,0,0,9.5875 pounds,Hedwig
+0,3,Mr. Francesco Celotti,male,24.0,0,0,8.05 pounds,Francesco
+0,3,Mr. Rossmore Edward Abbott,male,16.0,1,1,20.25 pounds,Rossmore
+0,2,Mr. John William Gill,male,24.0,0,0,13.0 pounds,John
+1,1,Miss. Elizabeth Margaret Burns,female,41.0,0,0,134.5 pounds,Elizabeth
+1,3,Miss. Helmina Josefina Nilsson,female,26.0,0,0,7.8542 pounds,Helmina
+1,2,Mrs. William H (Jessie L) Trout,female,28.0,0,0,12.65 pounds,Jessie
+1,1,Mrs. George Dennick (Mary Hitchcock) Wick,female,45.0,1,1,164.8667 pounds,Mary
+1,3,Miss. Margaret Delia Devaney,female,19.0,0,0,7.8792 pounds,Margaret
+0,3,Mr. Petco Slabenoff,male,42.0,0,0,7.8958 pounds,Petco
+1,3,Mrs. Mara Osman,female,31.0,0,0,8.6833 pounds,Mara
+0,1,Mr. James Clinch Smith,male,56.0,0,0,30.6958 pounds,James
+1,1,Mr. Dickinson H Bishop,male,25.0,1,0,91.0792 pounds,Dickinson
+0,3,Mrs. William Arthur (Cordelia K Stanlick) Lobb,female,26.0,1,0,16.1 pounds,Cordelia
+0,2,Mr. Alfred Gaskell,male,16.0,0,0,26.0 pounds,Alfred
+1,3,Miss. Eliina Honkanen,female,27.0,0,0,7.925 pounds,Eliina
+0,3,Mr. Yoto Danoff,male,27.0,0,0,7.8958 pounds,Yoto
+0,2,Mr. Reginald Charles Coleridge,male,29.0,0,0,10.5 pounds,Reginald
+1,1,Mrs. Frederick Joel (Margaret Welles Barron) Swift,female,48.0,0,0,25.9292 pounds,Margaret
+1,3,Mr. Nikola Lulic,male,27.0,0,0,8.6625 pounds,Nikola
+1,1,Dr. Henry William Frauenthal,male,50.0,2,0,133.65 pounds,Henry
+0,2,Mr. August Meyer,male,39.0,0,0,13.0 pounds,August
+0,3,Mr. Vasil Plotcharsky,male,27.0,0,0,7.8958 pounds,Vasil
+1,3,Mr. Albert Johan Moss,male,29.0,0,0,7.775 pounds,Albert
+0,3,Mr. Yousseff Ibrahim Shawah,male,30.0,0,0,7.2292 pounds,Yousseff
+0,3,Mr. Amin Saad,male,30.0,0,0,7.2292 pounds,Amin
+0,3,Mr. Rene Aime Lievens,male,24.0,0,0,9.5 pounds,Rene
+0,2,Mrs. William (Anna Sylfven) Lahtinen,female,26.0,1,1,26.0 pounds,Anna
+0,2,Mr. Erik Gustaf Collander,male,28.0,0,0,13.0 pounds,Erik
+0,2,Mr. Peter Henry Renouf,male,34.0,1,0,21.0 pounds,Peter
+0,2,Mr. Lawrence Gavey,male,26.0,0,0,10.5 pounds,Lawrence
+0,3,Mr. Mansour Hanna,male,23.5,0,0,7.2292 pounds,Mansour
+1,2,Miss. Susan Webber,female,32.5,0,0,13.0 pounds,Susan
+0,3,Mr. Michael Connaghton,male,31.0,0,0,7.75 pounds,Michael
+1,3,Mrs. Guillaume Joseph (Emma) de Messemaeker,female,36.0,1,0,17.4 pounds,Emma
+1,1,Mr. William Ernest Carter,male,36.0,1,2,120.0 pounds,William
+0,1,Mr. Wyckoff Van der hoef,male,61.0,0,0,33.5 pounds,Wyckoff
+0,1,Capt. Edward Gifford Crosby,male,70.0,1,1,71.0 pounds,Edward
+0,3,Miss. Stella Anna Sage,female,21.0,8,2,69.55 pounds,Stella
+0,3,Miss. Mary Bourke,female,40.0,0,2,7.75 pounds,Mary
+0,3,Mr. Leo Edmondus Vander Planke,male,16.0,2,0,18.0 pounds,Leo
+1,3,Miss. Brigdet Delia McDermott,female,31.0,0,0,7.7875 pounds,Brigdet
+1,2,Mrs. (Karolina) Bystrom,female,42.0,0,0,13.0 pounds,Karolina
+1,3,Miss. Margareth Mannion,female,28.0,0,0,7.7375 pounds,Margareth
+1,1,Miss. Daisy E Minahan,female,33.0,1,0,90.0 pounds,Daisy
+1,1,Mr. Elmer Zebley Taylor,male,48.0,1,0,52.0 pounds,Elmer
+1,1,Miss. Elise Lurette,female,58.0,0,0,146.5208 pounds,Elise
+1,3,Miss. Virginia Ethel Emanuel,female,5.0,0,0,12.475 pounds,Virginia
+0,3,Mr. Patrick Ryan,male,30.0,0,0,24.15 pounds,Patrick
+1,1,Mrs. Frederick R (Marion) Kenyon,female,41.0,1,0,51.8625 pounds,Marion
+0,1,Mr. Stephen Weart Blackwell,male,45.0,0,0,35.5 pounds,Stephen
+0,3,Mr. Stefo Pavlovic,male,32.0,0,0,7.8958 pounds,Stefo
+0,3,Miss. Mabel Skoog,female,9.0,3,2,27.9 pounds,Mabel
+1,3,Mr. Ivan Jalsevac,male,29.0,0,0,7.8958 pounds,Ivan
+0,3,Mr. Matti Rintamaki,male,35.0,0,0,7.125 pounds,Matti
+0,3,Mr. Liudevit Cor,male,19.0,0,0,7.8958 pounds,Liudevit
+0,3,Mr. Raihed Razi,male,30.0,0,0,7.2292 pounds,Raihed
+0,2,Mr. John Henry Chapman,male,37.0,1,0,26.0 pounds,John
+1,2,Mrs. Sidney (Emily Hocking) Richards,female,24.0,2,3,18.75 pounds,Emily
+0,3,Mr. Karl Gideon Gustafsson,male,19.0,0,0,7.775 pounds,Karl
+1,1,Mrs. Samuel L (Edwiga Grabowska) Goldenberg,female,40.0,1,0,89.1042 pounds,Edwiga

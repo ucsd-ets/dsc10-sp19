@@ -1,0 +1,15 @@
+{
+  "name": "Project 1: Titanic",
+  "endpoint": "ucsd/dsc10/sp19/project01",
+  "src": [
+    "project01.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
