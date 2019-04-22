@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> # most_common_name should be a string, and most_common_name_count should be a number
-          >>> type(most_common_name) == str
+          >>> isinstance(most_common_name, str)
           True
           >>> 0 <= most_common_name_count <= 100
           True
