@@ -1,6 +1,6 @@
 {
   "name": "Homework 4: Functions, Apply, Group, Conditionals, and Iteration",
-  "endpoint": "ucsd/dsc10/fa18/hw04",
+  "endpoint": "ucsd/dsc10/sp19/hw04",
   "src": [
     "hw04.ipynb"
   ],
