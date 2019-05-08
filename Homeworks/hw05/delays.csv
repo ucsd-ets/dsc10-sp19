@@ -1,0 +1,1169 @@
+Carrier,City,State,AirportCode,Airport,Flights,Delayed,Cancelled,Diverted,On-time
+American,New York,NY,JFK,John F. Kennedy International,1351,349,27,15,960
+American,Los Angeles,CA,LAX,Los Angeles International,2878,662,11,5,2200
+American,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,13969,3180,231,77,10481
+American,Kahului,HI,OGG,Kahului Airport,149,50,0,0,99
+American,Honolulu,HI,HNL,Honolulu International,186,54,1,0,131
+American,New York,NY,LGA,LaGuardia,1234,293,33,17,891
+American,Miami,FL,MIA,Miami International,4046,999,19,41,2987
+American,San Francisco,CA,SFO,San Francisco International,975,324,5,1,645
+American,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,417,117,5,2,293
+American,Boston,MA,BOS,Logan International,1033,307,10,3,713
+American,Chicago,IL,ORD,Chicago O'Hare International,4360,1035,53,2,3270
+American,Lubbock,TX,LBB,Lubbock Preston Smith International,86,28,1,0,57
+American,Mission/McAllen/Edinburg,TX,MFE,McAllen Miller International,149,57,2,0,90
+American,Washington,DC,DCA,Ronald Reagan Washington National,927,290,18,14,605
+American,Baltimore,MD,BWI,Baltimore/Washington International Thurgood Marshall,243,87,3,0,153
+American,Pensacola,FL,PNS,Pensacola International,62,20,0,0,42
+American,Charlotte,NC,CLT,Charlotte Douglas International,274,89,1,1,183
+American,New Orleans,LA,MSY,Louis Armstrong New Orleans International,274,77,5,0,192
+American,Kansas City,MO,MCI,Kansas City International,232,73,4,1,154
+American,St. Louis,MO,STL,Lambert-St. Louis International,542,134,3,1,404
+American,Reno,NV,RNO,Reno/Tahoe International,153,43,0,0,110
+American,Ontario,CA,ONT,Ontario International,152,44,2,0,106
+American,Houston,TX,IAH,George Bush Intercontinental/Houston,422,150,3,3,266
+American,Detroit,MI,DTW,Detroit Metro Wayne County,212,67,3,1,141
+American,Santa Ana,CA,SNA,John Wayne Airport-Orange County,437,81,2,1,353
+American,Denver,CO,DEN,Denver International,424,118,4,2,300
+American,Portland,OR,PDX,Portland International,214,50,3,0,161
+American,Las Vegas,NV,LAS,McCarran International,831,199,6,3,623
+American,Raleigh/Durham,NC,RDU,Raleigh-Durham International,365,94,2,3,266
+American,Phoenix,AZ,PHX,Phoenix Sky Harbor International,483,117,5,6,355
+American,Washington,DC,IAD,Washington Dulles International,272,74,4,2,192
+American,Jacksonville,FL,JAX,Jacksonville International,122,47,1,0,74
+American,San Diego,CA,SAN,San Diego International,518,150,3,0,365
+American,Orlando,FL,MCO,Orlando International,836,242,4,7,583
+American,San Juan,PR,SJU,Luis Munoz Marin International,403,107,0,0,296
+American,Hartford,CT,BDL,Bradley International,153,42,0,1,110
+American,Tucson,AZ,TUS,Tucson International,243,63,4,0,176
+American,Houston,TX,HOU,William P Hobby,84,19,2,0,63
+American,Seattle,WA,SEA,Seattle/Tacoma International,579,166,1,0,412
+American,Columbus,OH,CMH,Port Columbus International,180,66,2,0,112
+American,Jackson,WY,JAC,Jackson Hole,39,14,0,0,25
+American,Fort Myers,FL,RSW,Southwest Florida International,123,29,0,0,94
+American,San Jose,CA,SJC,Norman Y. Mineta San Jose International,242,67,4,0,171
+American,Newark,NJ,EWR,Newark Liberty International,302,91,10,3,198
+American,Tulsa,OK,TUL,Tulsa International,243,79,4,0,160
+American,Kona,HI,KOA,Kona International Airport at Keahole,31,9,0,0,22
+American,Colorado Springs,CO,COS,City of Colorado Springs Municipal,152,54,3,0,95
+American,El Paso,TX,ELP,El Paso International,271,88,6,1,176
+American,San Antonio,TX,SAT,San Antonio International,450,155,12,1,282
+American,Salt Lake City,UT,SLC,Salt Lake City International,153,66,3,0,84
+American,Indianapolis,IN,IND,Indianapolis International,180,49,4,1,126
+American,Nashville,TN,BNA,Nashville International,361,97,5,1,258
+American,Norfolk,VA,ORF,Norfolk International,61,23,0,1,37
+American,Fort Lauderdale,FL,FLL,Fort Lauderdale-Hollywood International,242,67,1,3,171
+American,Tampa,FL,TPA,Tampa International,427,119,3,4,301
+American,Milwaukee,WI,MKE,General Mitchell International,56,19,0,0,37
+American,Lihue,HI,LIH,Lihue Airport,62,9,0,0,53
+American,Anchorage,AK,ANC,Ted Stevens Anchorage International,31,13,0,0,18
+American,Austin,TX,AUS,Austin - Bergstrom International,691,179,12,2,498
+American,Little Rock,AR,LIT,Bill and Hillary Clinton Nat Adams Field,92,27,2,0,63
+American,Philadelphia,PA,PHL,Philadelphia International,274,85,4,3,182
+American,Albuquerque,NM,ABQ,Albuquerque International Sunport,242,75,7,3,157
+American,Wichita,KS,ICT,Wichita Mid-Continent,117,34,3,0,80
+American,Oklahoma City,OK,OKC,Will Rogers World,209,75,7,0,127
+American,Charlotte Amalie,VI,STT,Cyril E King,124,33,0,0,91
+American,Dayton,OH,DAY,James M Cox/Dayton International,88,22,0,0,66
+American,Memphis,TN,MEM,Memphis International,147,37,2,0,108
+American,Des Moines,IA,DSM,Des Moines International,56,20,0,0,36
+American,Minneapolis,MN,MSP,Minneapolis-St Paul International,210,70,2,1,137
+American,Pittsburgh,PA,PIT,Pittsburgh International,180,58,1,0,121
+American,Palm Springs,CA,PSP,Palm Springs International,31,13,1,0,17
+American,Louisville,KY,SDF,Louisville International-Standiford Field,117,51,2,0,64
+American,Omaha,NE,OMA,Eppley Airfield,149,61,3,0,85
+American,Christiansted,VI,STX,Henry E. Rohlsen,48,20,0,0,28
+American,Birmingham,AL,BHM,Birmingham-Shuttlesworth International,57,25,1,0,31
+American,Fresno,CA,FAT,Fresno Yosemite International,61,21,0,0,40
+American,Cleveland,OH,CLE,Cleveland-Hopkins International,91,24,0,0,67
+American,Eagle,CO,EGE,Eagle County Regional,35,15,0,0,20
+American,Fayetteville,AR,XNA,Northwest Arkansas Regional,58,8,0,0,50
+American,Richmond,VA,RIC,Richmond International,88,27,3,0,58
+American,Corpus Christi,TX,CRP,Corpus Christi International,57,18,1,0,38
+American,West Palm Beach/Palm Beach,FL,PBI,Palm Beach International,123,30,0,1,92
+American,Huntsville,AL,HSV,Huntsville International-Carl T Jones Field,86,32,3,0,51
+American,Sacramento,CA,SMF,Sacramento International,123,34,4,0,85
+Alaska,Washington,DC,DCA,Ronald Reagan Washington National,124,23,0,0,101
+Alaska,Seattle,WA,SEA,Seattle/Tacoma International,4672,698,14,7,3953
+Alaska,Los Angeles,CA,LAX,Los Angeles International,688,104,1,0,583
+Alaska,Newark,NJ,EWR,Newark Liberty International,61,15,0,2,44
+Alaska,Boston,MA,BOS,Logan International,155,18,0,0,137
+Alaska,Orlando,FL,MCO,Orlando International,60,18,0,0,42
+Alaska,Chicago,IL,ORD,Chicago O'Hare International,182,35,0,0,147
+Alaska,Portland,OR,PDX,Portland International,1111,134,0,0,977
+Alaska,Philadelphia,PA,PHL,Philadelphia International,31,8,0,0,23
+Alaska,Fort Lauderdale,FL,FLL,Fort Lauderdale-Hollywood International,31,7,0,0,24
+Alaska,Minneapolis,MN,MSP,Minneapolis-St Paul International,62,12,0,0,50
+Alaska,Kodiak,AK,ADQ,Kodiak Airport,58,6,3,0,49
+Alaska,Anchorage,AK,ANC,Ted Stevens Anchorage International,1329,205,12,3,1109
+Alaska,Bethel,AK,BET,Bethel Airport,85,14,1,0,70
+Alaska,Deadhorse,AK,SCC,Deadhorse Airport,79,20,1,1,57
+Alaska,Barrow,AK,BRW,Wiley Post/Will Rogers Memorial,79,23,0,7,49
+Alaska,Fairbanks,AK,FAI,Fairbanks International,186,25,3,1,157
+Alaska,Sitka,AK,SIT,Sitka Rocky Gutierrez,155,25,2,0,128
+Alaska,Juneau,AK,JNU,Juneau International,490,67,6,4,413
+Alaska,Ketchikan,AK,KTN,Ketchikan International,246,31,0,0,215
+Alaska,Cordova,AK,CDV,Merle K Mudhole Smith,62,10,0,0,52
+Alaska,Yakutat,AK,YAK,Yakutat Airport,62,10,0,1,51
+Alaska,Petersburg,AK,PSG,Petersburg James A Johnson,62,6,0,0,56
+Alaska,Wrangell,AK,WRG,Wrangell Airport,62,5,0,0,57
+Alaska,San Diego,CA,SAN,San Diego International,535,64,0,0,471
+Alaska,San Francisco,CA,SFO,San Francisco International,492,153,2,1,336
+Alaska,San Jose,CA,SJC,Norman Y. Mineta San Jose International,416,48,0,0,368
+Alaska,Palm Springs,CA,PSP,Palm Springs International,66,24,0,0,42
+Alaska,Oakland,CA,OAK,Metropolitan Oakland International,217,28,0,0,189
+Alaska,Sacramento,CA,SMF,Sacramento International,212,36,0,0,176
+Alaska,Gustavus,AK,GST,Gustavus Airport,31,5,5,0,21
+Alaska,Nome,AK,OME,Nome Airport,62,8,1,1,52
+Alaska,Kotzebue,AK,OTZ,Ralph Wien Memorial,62,5,0,0,57
+Alaska,King Salmon,AK,AKN,King Salmon Airport,31,4,0,0,27
+Alaska,Dillingham,AK,DLG,Dillingham Airport,31,5,0,1,25
+Alaska,Santa Ana,CA,SNA,John Wayne Airport-Orange County,296,40,1,1,254
+Alaska,Burbank,CA,BUR,Bob Hope,92,12,0,0,80
+Alaska,Ontario,CA,ONT,Ontario International,93,19,0,0,74
+Alaska,Las Vegas,NV,LAS,McCarran International,395,72,1,0,322
+Alaska,Bellingham,WA,BLI,Bellingham International,45,5,0,0,40
+Alaska,Phoenix,AZ,PHX,Phoenix Sky Harbor International,181,43,0,1,137
+Alaska,Tucson,AZ,TUS,Tucson International,31,9,0,0,22
+Alaska,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,124,16,0,0,108
+Alaska,San Antonio,TX,SAT,San Antonio International,31,7,0,0,24
+Alaska,Denver,CO,DEN,Denver International,155,21,0,0,134
+Alaska,Austin,TX,AUS,Austin - Bergstrom International,31,6,0,0,25
+Alaska,Spokane,WA,GEG,Spokane International,154,23,0,0,131
+Alaska,Salt Lake City,UT,SLC,Salt Lake City International,217,25,0,0,192
+Alaska,Houston,TX,IAH,George Bush Intercontinental/Houston,31,12,0,0,19
+Alaska,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,62,4,1,0,57
+Alaska,St. Louis,MO,STL,Lambert-St. Louis International,31,4,0,0,27
+Alaska,Kansas City,MO,MCI,Kansas City International,31,3,0,0,28
+Alaska,Tampa,FL,TPA,Tampa International,31,2,0,0,29
+Alaska,New Orleans,LA,MSY,Louis Armstrong New Orleans International,31,4,0,1,26
+Alaska,Kona,HI,KOA,Kona International Airport at Keahole,79,6,0,1,72
+Alaska,Kahului,HI,OGG,Kahului Airport,248,21,0,2,225
+Alaska,Honolulu,HI,HNL,Honolulu International,217,24,0,0,193
+Alaska,Lihue,HI,LIH,Lihue Airport,107,11,0,0,96
+Alaska,Adak Island,AK,ADK,Adak,9,2,1,0,6
+JetBlue,Orlando,FL,MCO,Orlando International,1674,496,48,5,1125
+JetBlue,Syracuse,NY,SYR,Syracuse Hancock International,124,41,10,0,73
+JetBlue,Boston,MA,BOS,Logan International,3613,1072,63,3,2475
+JetBlue,Newark,NJ,EWR,Newark Liberty International,584,211,33,3,337
+JetBlue,Baltimore,MD,BWI,Baltimore/Washington International Thurgood Marshall,168,43,4,0,121
+JetBlue,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,89,26,3,1,59
+JetBlue,New York,NY,JFK,John F. Kennedy International,3873,1208,205,13,2447
+JetBlue,Rochester,NY,ROC,Greater Rochester International,124,53,10,0,61
+JetBlue,Portland,ME,PWM,Portland International Jetport,155,43,12,0,100
+JetBlue,Buffalo,NY,BUF,Buffalo Niagara International,437,128,18,1,290
+JetBlue,Houston,TX,HOU,William P Hobby,124,27,3,0,94
+JetBlue,San Juan,PR,SJU,Luis Munoz Marin International,1087,348,18,0,721
+JetBlue,Nantucket,MA,ACK,Nantucket Memorial,105,20,1,0,84
+JetBlue,New Orleans,LA,MSY,Louis Armstrong New Orleans International,124,37,7,0,80
+JetBlue,Christiansted,VI,STX,Henry E. Rohlsen,31,4,0,0,27
+JetBlue,Richmond,VA,RIC,Richmond International,155,37,0,0,118
+JetBlue,Detroit,MI,DTW,Detroit Metro Wayne County,93,23,0,0,70
+JetBlue,Pittsburgh,PA,PIT,Pittsburgh International,119,24,0,0,95
+JetBlue,Philadelphia,PA,PHL,Philadelphia International,151,33,5,0,113
+JetBlue,Charleston,SC,CHS,Charleston AFB/International,163,33,1,0,129
+JetBlue,Chicago,IL,ORD,Chicago O'Hare International,248,91,9,1,147
+JetBlue,Washington,DC,DCA,Ronald Reagan Washington National,700,192,13,2,493
+JetBlue,Charlotte,NC,CLT,Charlotte Douglas International,124,38,5,1,80
+JetBlue,Raleigh/Durham,NC,RDU,Raleigh-Durham International,239,83,6,1,149
+JetBlue,Jacksonville,FL,JAX,Jacksonville International,186,66,7,1,112
+JetBlue,Charlotte Amalie,VI,STT,Cyril E King,62,3,0,0,59
+JetBlue,Ponce,PR,PSE,Mercedita,93,34,6,2,51
+JetBlue,Fort Lauderdale,FL,FLL,Fort Lauderdale-Hollywood International,1360,527,43,5,785
+JetBlue,White Plains,NY,HPN,Westchester County,341,92,10,5,234
+JetBlue,Newburgh/Poughkeepsie,NY,SWF,Stewart International,62,15,0,0,47
+JetBlue,Austin,TX,AUS,Austin - Bergstrom International,217,57,2,1,157
+JetBlue,Washington,DC,IAD,Washington Dulles International,208,46,9,1,152
+JetBlue,Hartford,CT,BDL,Bradley International,269,82,3,1,183
+JetBlue,Burlington,VT,BTV,Burlington International,107,37,9,0,61
+JetBlue,Worcester,MA,ORH,Worcester Regional,62,27,3,0,32
+JetBlue,Tampa,FL,TPA,Tampa International,516,174,11,3,328
+JetBlue,West Palm Beach/Palm Beach,FL,PBI,Palm Beach International,415,174,14,3,224
+JetBlue,Martha's Vineyard,MA,MVY,Martha's Vineyard Airport,44,15,2,0,27
+JetBlue,Savannah,GA,SAV,Savannah/Hilton Head International,93,28,1,0,64
+JetBlue,Fort Myers,FL,RSW,Southwest Florida International,217,72,8,0,137
+JetBlue,Hyannis,MA,HYA,Barnstable Municipal-Boardman/Polando Field,31,6,1,0,24
+JetBlue,Sarasota/Bradenton,FL,SRQ,Sarasota/Bradenton International,62,13,2,0,47
+JetBlue,Portland,OR,PDX,Portland International,182,65,1,0,116
+JetBlue,Long Beach,CA,LGB,Long Beach Airport,916,183,3,1,729
+JetBlue,Seattle,WA,SEA,Seattle/Tacoma International,274,79,3,1,191
+JetBlue,Oakland,CA,OAK,Metropolitan Oakland International,186,46,3,0,137
+JetBlue,San Francisco,CA,SFO,San Francisco International,337,149,4,2,182
+JetBlue,New York,NY,LGA,LaGuardia,496,158,23,2,313
+JetBlue,Sacramento,CA,SMF,Sacramento International,93,24,2,0,67
+JetBlue,Los Angeles,CA,LAX,Los Angeles International,310,99,5,0,206
+JetBlue,Las Vegas,NV,LAS,McCarran International,327,95,5,0,227
+JetBlue,Anchorage,AK,ANC,Ted Stevens Anchorage International,62,25,0,0,37
+JetBlue,San Jose,CA,SJC,Norman Y. Mineta San Jose International,62,27,3,1,31
+JetBlue,Aguadilla,PR,BQN,Rafael Hernandez,124,39,1,1,83
+JetBlue,Denver,CO,DEN,Denver International,93,44,3,0,46
+JetBlue,Phoenix,AZ,PHX,Phoenix Sky Harbor International,62,28,3,1,30
+JetBlue,San Diego,CA,SAN,San Diego International,123,38,2,1,82
+JetBlue,Albuquerque,NM,ABQ,Albuquerque International Sunport,31,15,1,0,15
+JetBlue,Providence,RI,PVD,Theodore Francis Green State,93,36,2,0,55
+JetBlue,Burbank,CA,BUR,Bob Hope,31,16,2,0,13
+JetBlue,Salt Lake City,UT,SLC,Salt Lake City International,124,30,1,0,93
+Delta,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,19956,2329,35,51,17541
+Delta,Minneapolis,MN,MSP,Minneapolis-St Paul International,5762,664,7,14,5077
+Delta,Los Angeles,CA,LAX,Los Angeles International,1979,268,2,3,1706
+Delta,Anchorage,AK,ANC,Ted Stevens Anchorage International,274,43,0,0,231
+Delta,Philadelphia,PA,PHL,Philadelphia International,610,120,3,1,486
+Delta,Detroit,MI,DTW,Detroit Metro Wayne County,4625,448,12,11,4154
+Delta,Raleigh/Durham,NC,RDU,Raleigh-Durham International,562,90,0,4,468
+Delta,Sarasota/Bradenton,FL,SRQ,Sarasota/Bradenton International,206,27,0,1,178
+Delta,Greensboro/High Point,NC,GSO,Piedmont Triad International,181,19,0,0,162
+Delta,Tampa,FL,TPA,Tampa International,834,148,1,2,683
+Delta,Salt Lake City,UT,SLC,Salt Lake City International,3239,300,0,1,2938
+Delta,Indianapolis,IN,IND,Indianapolis International,450,52,0,0,398
+Delta,Denver,CO,DEN,Denver International,615,121,0,3,491
+Delta,Seattle,WA,SEA,Seattle/Tacoma International,1209,155,1,0,1053
+Delta,Omaha,NE,OMA,Eppley Airfield,236,33,0,1,202
+Delta,Rochester,NY,ROC,Greater Rochester International,120,13,0,1,106
+Delta,New York,NY,LGA,LaGuardia,1944,396,19,16,1513
+Delta,Myrtle Beach,SC,MYR,Myrtle Beach International,146,15,0,0,131
+Delta,Fort Lauderdale,FL,FLL,Fort Lauderdale-Hollywood International,858,166,3,2,687
+Delta,Jackson,WY,JAC,Jackson Hole,119,12,0,1,106
+Delta,Charlotte,NC,CLT,Charlotte Douglas International,526,82,0,3,441
+Delta,San Diego,CA,SAN,San Diego International,634,69,2,0,563
+Delta,San Juan,PR,SJU,Luis Munoz Marin International,282,62,1,0,219
+Delta,Boston,MA,BOS,Logan International,1005,196,4,0,805
+Delta,Las Vegas,NV,LAS,McCarran International,964,139,0,0,825
+Delta,Huntsville,AL,HSV,Huntsville International-Carl T Jones Field,190,20,0,0,170
+Delta,Houston,TX,HOU,William P Hobby,173,17,1,0,155
+Delta,Little Rock,AR,LIT,Bill and Hillary Clinton Nat Adams Field,171,27,0,0,144
+Delta,Memphis,TN,MEM,Memphis International,350,47,0,0,303
+Delta,Orlando,FL,MCO,Orlando International,1395,282,3,4,1106
+Delta,Baltimore,MD,BWI,Baltimore/Washington International Thurgood Marshall,614,95,6,0,513
+Delta,Chicago,IL,ORD,Chicago O'Hare International,569,83,0,0,486
+Delta,San Antonio,TX,SAT,San Antonio International,302,30,2,0,270
+Delta,Akron,OH,CAK,Akron-Canton Regional,118,12,0,0,106
+Delta,Fayetteville,AR,XNA,Northwest Arkansas Regional,31,7,1,0,23
+Delta,Phoenix,AZ,PHX,Phoenix Sky Harbor International,602,76,2,4,520
+Delta,Chicago,IL,MDW,Chicago Midway International,199,25,1,0,173
+Delta,Houston,TX,IAH,George Bush Intercontinental/Houston,347,40,1,4,302
+Delta,Charleston,SC,CHS,Charleston AFB/International,286,36,0,0,250
+Delta,Miami,FL,MIA,Miami International,724,151,2,10,561
+Delta,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,505,72,0,1,432
+Delta,Richmond,VA,RIC,Richmond International,230,25,0,0,205
+Delta,Nashville,TN,BNA,Nashville International,444,56,0,0,388
+Delta,San Francisco,CA,SFO,San Francisco International,894,124,1,1,768
+Delta,San Jose,CA,SJC,Norman Y. Mineta San Jose International,119,17,0,0,102
+Delta,Hartford,CT,BDL,Bradley International,376,48,1,0,327
+Delta,Columbus,OH,CMH,Port Columbus International,284,37,0,0,247
+Delta,Washington,DC,IAD,Washington Dulles International,196,32,1,3,160
+Delta,Missoula,MT,MSO,Missoula International,70,7,0,1,62
+Delta,Cleveland,OH,CLE,Cleveland-Hopkins International,196,25,0,0,171
+Delta,Panama City,FL,ECP,Northwest Florida Beaches International,175,19,0,0,156
+Delta,Washington,DC,DCA,Ronald Reagan Washington National,774,119,5,6,644
+Delta,Cincinnati,OH,CVG,Cincinnati/Northern Kentucky International,603,70,1,1,531
+Delta,St. Louis,MO,STL,Lambert-St. Louis International,547,49,0,1,497
+Delta,Savannah,GA,SAV,Savannah/Hilton Head International,281,35,0,0,246
+Delta,Albany,NY,ALB,Albany International,119,26,0,0,93
+Delta,Santa Ana,CA,SNA,John Wayne Airport-Orange County,241,21,0,0,220
+Delta,Buffalo,NY,BUF,Buffalo Niagara International,231,17,0,1,213
+Delta,Flint,MI,FNT,Bishop International,88,7,0,0,81
+Delta,Albuquerque,NM,ABQ,Albuquerque International Sunport,138,25,0,1,112
+Delta,Jacksonville,FL,JAX,Jacksonville International,349,54,0,1,294
+Delta,Newark,NJ,EWR,Newark Liberty International,429,118,3,2,306
+Delta,Reno,NV,RNO,Reno/Tahoe International,34,3,0,0,31
+Delta,Portland,OR,PDX,Portland International,562,54,0,0,508
+Delta,Pensacola,FL,PNS,Pensacola International,215,22,0,0,193
+Delta,Lihue,HI,LIH,Lihue Airport,31,3,0,0,28
+Delta,Syracuse,NY,SYR,Syracuse Hancock International,122,19,0,0,103
+Delta,Grand Rapids,MI,GRR,Gerald R. Ford International,229,22,0,0,207
+Delta,Madison,WI,MSN,Dane County Regional-Truax Field,203,28,0,0,175
+Delta,Melbourne,FL,MLB,Melbourne International,119,13,0,1,105
+Delta,Austin,TX,AUS,Austin - Bergstrom International,383,46,0,1,336
+Delta,New Orleans,LA,MSY,Louis Armstrong New Orleans International,570,72,1,0,497
+Delta,Tulsa,OK,TUL,Tulsa International,31,3,0,0,28
+Delta,Green Bay,WI,GRB,Austin Straubel International,74,11,0,0,63
+Delta,Kansas City,MO,MCI,Kansas City International,511,47,0,0,464
+Delta,Bozeman,MT,BZN,Bozeman Yellowstone International,181,16,0,0,165
+Delta,West Palm Beach/Palm Beach,FL,PBI,Palm Beach International,440,75,0,1,364
+Delta,Des Moines,IA,DSM,Des Moines International,91,17,0,0,74
+Delta,Manchester,NH,MHT,Manchester-Boston Regional,57,14,0,0,43
+Delta,Ontario,CA,ONT,Ontario International,30,2,0,0,28
+Delta,Milwaukee,WI,MKE,General Mitchell International,467,53,1,0,413
+Delta,Dayton,OH,DAY,James M Cox/Dayton International,123,15,0,0,108
+Delta,Fairbanks,AK,FAI,Fairbanks International,62,3,0,0,59
+Delta,Birmingham,AL,BHM,Birmingham-Shuttlesworth International,242,33,0,0,209
+Delta,Boise,ID,BOI,Boise Air Terminal,181,17,0,0,164
+Delta,Portland,ME,PWM,Portland International Jetport,93,10,0,0,83
+Delta,Key West,FL,EYW,Key West International,100,11,0,0,89
+Delta,New York,NY,JFK,John F. Kennedy International,2105,552,13,31,1509
+Delta,Fort Myers,FL,RSW,Southwest Florida International,368,34,0,2,332
+Delta,Louisville,KY,SDF,Louisville International-Standiford Field,206,18,0,0,188
+Delta,Spokane,WA,GEG,Spokane International,206,15,0,0,191
+Delta,Jackson/Vicksburg,MS,JAN,Jackson Medgar Wiley Evers International,192,25,0,0,167
+Delta,Gulfport/Biloxi,MS,GPT,Gulfport-Biloxi International,59,6,0,0,53
+Delta,Chattanooga,TN,CHA,Lovell Field,35,5,1,0,29
+Delta,Colorado Springs,CO,COS,City of Colorado Springs Municipal,31,11,0,0,20
+Delta,Kahului,HI,OGG,Kahului Airport,62,6,0,0,56
+Delta,Pittsburgh,PA,PIT,Pittsburgh International,329,29,1,0,299
+Delta,El Paso,TX,ELP,El Paso International,61,10,0,0,51
+Delta,Tallahassee,FL,TLH,Tallahassee Regional,135,21,0,0,114
+Delta,Norfolk,VA,ORF,Norfolk International,232,30,1,0,201
+Delta,Oklahoma City,OK,OKC,Will Rogers World,151,11,0,1,139
+Delta,Providence,RI,PVD,Theodore Francis Green State,148,19,0,0,129
+Delta,Honolulu,HI,HNL,Honolulu International,248,29,0,0,219
+Delta,Greer,SC,GSP,Greenville-Spartanburg International,162,18,0,0,144
+Delta,Sacramento,CA,SMF,Sacramento International,200,29,0,0,171
+Delta,Knoxville,TN,TYS,McGhee Tyson,77,10,0,0,67
+Delta,Daytona Beach,FL,DAB,Daytona Beach International,152,25,0,1,126
+Delta,Augusta,GA,AGS,Augusta Regional at Bush Field,54,11,0,0,43
+Delta,Burlington,VT,BTV,Burlington International,31,6,0,0,25
+Delta,Wichita,KS,ICT,Wichita Mid-Continent,60,7,0,0,53
+Delta,Harrisburg,PA,MDT,Harrisburg International,82,10,0,0,72
+Delta,Gainesville,FL,GNV,Gainesville Regional,28,8,0,0,20
+Delta,Valparaiso,FL,VPS,Northwest Florida Regional,180,21,0,0,159
+Delta,Oakland,CA,OAK,Metropolitan Oakland International,91,5,0,0,86
+Delta,Bristol/Johnson City/Kingsport,TN,TRI,Tri-Cities Regional TN/VA,80,7,0,0,73
+Delta,Wilmington,NC,ILM,Wilmington International,55,10,0,0,45
+Delta,Columbia,SC,CAE,Columbia Metropolitan,77,9,0,0,68
+Delta,Traverse City,MI,TVC,Cherry Capital,148,14,0,0,134
+Delta,Billings,MT,BIL,Billings Logan International,123,12,0,0,111
+Delta,Roanoke,VA,ROA,Roanoke Regional/Woodrum Field,31,5,0,0,26
+Delta,Kalispell,MT,FCA,Glacier Park International,74,9,0,0,65
+Delta,Fayetteville,NC,FAY,Fayetteville Regional/Grannis Field,30,3,0,0,27
+Delta,Juneau,AK,JNU,Juneau International,31,4,0,1,26
+Delta,Shreveport,LA,SHV,Shreveport Regional,24,0,0,0,24
+Delta,Charlotte Amalie,VI,STT,Cyril E King,97,9,0,0,88
+Delta,Mobile,AL,MOB,Mobile Regional,55,4,0,0,51
+Delta,Fargo,ND,FAR,Hector International,31,6,0,0,25
+Delta,Baton Rouge,LA,BTR,Baton Rouge Metropolitan/Ryan Field,24,5,0,0,19
+Delta,Tucson,AZ,TUS,Tucson International,58,5,0,0,53
+Delta,Charleston/Dunbar,WV,CRW,Yeager,31,5,0,0,26
+Delta,Lexington,KY,LEX,Blue Grass,60,7,0,0,53
+Delta,Kona,HI,KOA,Kona International Airport at Keahole,31,6,0,0,25
+Delta,Asheville,NC,AVL,Asheville Regional,31,2,0,0,29
+Delta,Rapid City,SD,RAP,Rapid City Regional,30,4,0,0,26
+Delta,Duluth,MN,DLH,Duluth International,30,6,0,0,24
+Delta,Lafayette,LA,LFT,Lafayette Regional,30,5,0,0,25
+Delta,Appleton,WI,ATW,Outagamie County Regional,1,0,0,0,1
+ExpressJet,Lafayette,LA,LFT,Lafayette Regional,443,100,8,0,335
+ExpressJet,College Station/Bryan,TX,CLL,Easterwood Field,149,38,5,0,106
+ExpressJet,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,1480,490,88,5,897
+ExpressJet,Tyler,TX,TYR,Tyler Pounds Regional,142,30,9,0,103
+ExpressJet,Amarillo,TX,AMA,Rick Husband Amarillo International,216,68,9,1,138
+ExpressJet,Brownsville,TX,BRO,Brownsville South Padre Island International,208,55,6,0,147
+ExpressJet,Monroe,LA,MLU,Monroe Regional,263,50,6,0,207
+ExpressJet,Oklahoma City,OK,OKC,Will Rogers World,299,77,8,0,214
+ExpressJet,Corpus Christi,TX,CRP,Corpus Christi International,396,115,15,1,265
+ExpressJet,Waco,TX,ACT,Waco Regional,26,18,3,0,5
+ExpressJet,Rapid City,SD,RAP,Rapid City Regional,191,65,16,1,109
+ExpressJet,San Angelo,TX,SJT,San Angelo Regional/Mathis Field,62,19,4,0,39
+ExpressJet,Knoxville,TN,TYS,McGhee Tyson,485,158,16,1,310
+ExpressJet,Midland/Odessa,TX,MAF,Midland International,252,77,7,1,167
+ExpressJet,Cedar Rapids/Iowa City,IA,CID,The Eastern Iowa,213,65,4,0,144
+ExpressJet,Beaumont/Port Arthur,TX,BPT,Jack Brooks Regional,92,39,4,0,49
+ExpressJet,Madison,WI,MSN,Dane County Regional-Truax Field,263,80,13,0,170
+ExpressJet,Little Rock,AR,LIT,Bill and Hillary Clinton Nat Adams Field,319,87,8,2,222
+ExpressJet,Shreveport,LA,SHV,Shreveport Regional,444,123,9,0,312
+ExpressJet,Denver,CO,DEN,Denver International,1791,396,51,15,1329
+ExpressJet,Hayden,CO,HDN,Yampa Valley,19,4,0,0,15
+ExpressJet,Houston,TX,IAH,George Bush Intercontinental/Houston,7497,1465,146,33,5853
+ExpressJet,Lake Charles,LA,LCH,Lake Charles Regional,147,40,4,0,103
+ExpressJet,Louisville,KY,SDF,Louisville International-Standiford Field,321,101,14,0,206
+ExpressJet,Charleston,SC,CHS,Charleston AFB/International,458,128,38,1,291
+ExpressJet,Cleveland,OH,CLE,Cleveland-Hopkins International,991,218,44,2,727
+ExpressJet,Grand Rapids,MI,GRR,Gerald R. Ford International,172,33,5,1,133
+ExpressJet,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,5923,1110,63,23,4727
+ExpressJet,Boston,MA,BOS,Logan International,172,40,1,2,129
+ExpressJet,Buffalo,NY,BUF,Buffalo Niagara International,121,23,5,0,93
+ExpressJet,Akron,OH,CAK,Akron-Canton Regional,96,24,1,0,71
+ExpressJet,Colorado Springs,CO,COS,City of Colorado Springs Municipal,141,20,0,0,121
+ExpressJet,Greer,SC,GSP,Greenville-Spartanburg International,247,62,8,0,177
+ExpressJet,Washington,DC,IAD,Washington Dulles International,2084,468,131,10,1475
+ExpressJet,Mission/McAllen/Edinburg,TX,MFE,McAllen Miller International,240,66,3,1,170
+ExpressJet,Chicago,IL,ORD,Chicago O'Hare International,4809,1193,107,2,3507
+ExpressJet,White Plains,NY,HPN,Westchester County,281,96,5,4,176
+ExpressJet,Baltimore,MD,BWI,Baltimore/Washington International Thurgood Marshall,12,2,0,0,10
+ExpressJet,Newark,NJ,EWR,Newark Liberty International,3443,838,311,14,2280
+ExpressJet,San Antonio,TX,SAT,San Antonio International,173,39,2,0,132
+ExpressJet,Austin,TX,AUS,Austin - Bergstrom International,54,9,2,0,43
+ExpressJet,Charlotte,NC,CLT,Charlotte Douglas International,490,140,16,4,330
+ExpressJet,Dallas,TX,DAL,Dallas Love Field,327,70,4,0,253
+ExpressJet,Pittsburgh,PA,PIT,Pittsburgh International,146,43,1,1,101
+ExpressJet,Baton Rouge,LA,BTR,Baton Rouge Metropolitan/Ryan Field,457,126,8,1,322
+ExpressJet,Dayton,OH,DAY,James M Cox/Dayton International,257,85,11,1,160
+ExpressJet,Richmond,VA,RIC,Richmond International,601,164,27,0,410
+ExpressJet,Hartford,CT,BDL,Bradley International,209,56,7,1,145
+ExpressJet,Cincinnati,OH,CVG,Cincinnati/Northern Kentucky International,548,147,20,3,378
+ExpressJet,Sioux Falls,SD,FSD,Joe Foss Field,236,68,9,0,159
+ExpressJet,Gunnison,CO,GUC,Gunnison-Crested Butte Regional,63,19,2,0,42
+ExpressJet,Jackson/Vicksburg,MS,JAN,Jackson Medgar Wiley Evers International,243,71,2,0,170
+ExpressJet,Milwaukee,WI,MKE,General Mitchell International,241,44,15,0,182
+ExpressJet,Tampa,FL,TPA,Tampa International,5,0,0,0,5
+ExpressJet,Norfolk,VA,ORF,Norfolk International,218,59,10,3,146
+ExpressJet,Tucson,AZ,TUS,Tucson International,57,9,0,1,47
+ExpressJet,Traverse City,MI,TVC,Cherry Capital,127,40,1,1,85
+ExpressJet,Valparaiso,FL,VPS,Northwest Florida Regional,109,27,0,0,82
+ExpressJet,Birmingham,AL,BHM,Birmingham-Shuttlesworth International,340,68,4,1,267
+ExpressJet,Manchester,NH,MHT,Manchester-Boston Regional,164,40,5,0,119
+ExpressJet,Flint,MI,FNT,Bishop International,92,13,3,0,76
+ExpressJet,Lincoln,NE,LNK,Lincoln Airport,98,30,1,0,67
+ExpressJet,New Orleans,LA,MSY,Louis Armstrong New Orleans International,230,43,8,1,178
+ExpressJet,Charleston/Dunbar,WV,CRW,Yeager,280,61,9,1,209
+ExpressJet,Omaha,NE,OMA,Eppley Airfield,476,127,17,0,332
+ExpressJet,New York,NY,LGA,LaGuardia,1226,264,135,3,824
+ExpressJet,Huntsville,AL,HSV,Huntsville International-Carl T Jones Field,187,48,3,0,136
+ExpressJet,Harlingen/San Benito,TX,HRL,Valley International,118,24,3,0,91
+ExpressJet,Indianapolis,IN,IND,Indianapolis International,423,117,16,0,290
+ExpressJet,Albuquerque,NM,ABQ,Albuquerque International Sunport,167,47,0,1,119
+ExpressJet,Laredo,TX,LRD,Laredo International,87,12,5,0,70
+ExpressJet,Rochester,NY,ROC,Greater Rochester International,98,21,4,0,73
+ExpressJet,St. Louis,MO,STL,Lambert-St. Louis International,318,63,18,0,237
+ExpressJet,Billings,MT,BIL,Billings Logan International,24,7,1,0,16
+ExpressJet,Nashville,TN,BNA,Nashville International,713,217,34,0,462
+ExpressJet,Kansas City,MO,MCI,Kansas City International,539,153,26,2,358
+ExpressJet,Greensboro/High Point,NC,GSO,Piedmont Triad International,423,113,12,0,298
+ExpressJet,Detroit,MI,DTW,Detroit Metro Wayne County,2680,390,75,11,2204
+ExpressJet,Green Bay,WI,GRB,Austin Straubel International,278,76,5,0,197
+ExpressJet,Alexandria,LA,AEX,Alexandria International,211,33,1,1,176
+ExpressJet,Durango,CO,DRO,Durango La Plata County,14,5,0,0,9
+ExpressJet,Portland,ME,PWM,Portland International Jetport,127,33,11,1,82
+ExpressJet,Memphis,TN,MEM,Memphis International,308,92,11,0,205
+ExpressJet,Raleigh/Durham,NC,RDU,Raleigh-Durham International,444,101,10,4,329
+ExpressJet,Albany,NY,ALB,Albany International,103,14,3,1,85
+ExpressJet,Phoenix,AZ,PHX,Phoenix Sky Harbor International,32,5,0,0,27
+ExpressJet,Mobile,AL,MOB,Mobile Regional,346,70,3,1,272
+ExpressJet,Garden City,KS,GCK,Garden City Regional,31,8,2,0,21
+ExpressJet,Tulsa,OK,TUL,Tulsa International,590,171,16,1,402
+ExpressJet,Jacksonville,FL,JAX,Jacksonville International,298,81,9,1,207
+ExpressJet,Columbus,OH,CMH,Port Columbus International,338,86,5,1,246
+ExpressJet,Erie,PA,ERI,Erie International/Tom Ridge Field,62,14,2,0,46
+ExpressJet,State College,PA,SCE,University Park,57,12,1,2,42
+ExpressJet,Mosinee,WI,CWA,Central Wisconsin,61,20,1,0,40
+ExpressJet,Elmira/Corning,NY,ELM,Elmira/Corning Regional,177,25,3,1,148
+ExpressJet,South Bend,IN,SBN,South Bend International,121,36,4,0,81
+ExpressJet,Des Moines,IA,DSM,Des Moines International,141,49,6,2,84
+ExpressJet,Lexington,KY,LEX,Blue Grass,289,66,3,1,219
+ExpressJet,Pensacola,FL,PNS,Pensacola International,183,49,1,2,131
+ExpressJet,Minneapolis,MN,MSP,Minneapolis-St Paul International,717,128,19,4,566
+ExpressJet,Savannah,GA,SAV,Savannah/Hilton Head International,291,58,24,0,209
+ExpressJet,Dickinson,ND,DIK,Dickinson - Theodore Roosevelt Regional,79,24,5,0,50
+ExpressJet,Gulfport/Biloxi,MS,GPT,Gulfport-Biloxi International,235,45,4,1,185
+ExpressJet,Providence,RI,PVD,Theodore Francis Green State,108,21,9,0,78
+ExpressJet,Montrose/Delta,CO,MTJ,Montrose Regional,5,0,0,0,5
+ExpressJet,Salt Lake City,UT,SLC,Salt Lake City International,58,10,0,0,48
+ExpressJet,Lansing,MI,LAN,Capital Region International,88,31,4,0,53
+ExpressJet,Atlantic City,NJ,ACY,Atlantic City International,62,12,2,0,48
+ExpressJet,Washington,DC,DCA,Ronald Reagan Washington National,335,83,17,3,232
+ExpressJet,El Paso,TX,ELP,El Paso International,235,47,1,1,186
+ExpressJet,Asheville,NC,AVL,Asheville Regional,238,41,3,0,194
+ExpressJet,Roanoke,VA,ROA,Roanoke Regional/Woodrum Field,217,41,8,1,167
+ExpressJet,Burlington,VT,BTV,Burlington International,243,56,6,2,179
+ExpressJet,Moline,IL,MLI,Quad City International,190,46,2,1,141
+ExpressJet,Killeen,TX,GRK,Robert Gray AAF,144,28,2,0,114
+ExpressJet,Wichita,KS,ICT,Wichita Mid-Continent,140,37,5,0,98
+ExpressJet,Fargo,ND,FAR,Hector International,119,30,1,0,88
+ExpressJet,Lubbock,TX,LBB,Lubbock Preston Smith International,178,44,10,0,124
+ExpressJet,Fayetteville,AR,XNA,Northwest Arkansas Regional,370,78,6,1,285
+ExpressJet,Syracuse,NY,SYR,Syracuse Hancock International,94,33,2,0,59
+ExpressJet,Columbia,SC,CAE,Columbia Metropolitan,446,107,18,1,320
+ExpressJet,Appleton,WI,ATW,Outagamie County Regional,120,33,2,0,85
+ExpressJet,Hobbs,NM,HOB,Lea County Regional,57,21,0,0,36
+ExpressJet,Grand Junction,CO,GJT,Grand Junction Regional,63,14,3,0,46
+ExpressJet,Harrisburg,PA,MDT,Harrisburg International,122,26,2,0,94
+ExpressJet,Springfield,MO,SGF,Springfield-Branson National,207,43,3,2,159
+ExpressJet,West Palm Beach/Palm Beach,FL,PBI,Palm Beach International,28,14,0,1,13
+ExpressJet,Bristol/Johnson City/Kingsport,TN,TRI,Tri-Cities Regional TN/VA,97,21,1,0,75
+ExpressJet,Augusta,GA,AGS,Augusta Regional at Bush Field,174,27,3,0,144
+ExpressJet,Tallahassee,FL,TLH,Tallahassee Regional,43,10,0,0,33
+ExpressJet,Chattanooga,TN,CHA,Lovell Field,163,25,3,0,135
+ExpressJet,Bangor,ME,BGR,Bangor International,112,30,3,0,79
+ExpressJet,Myrtle Beach,SC,MYR,Myrtle Beach International,15,2,0,0,13
+ExpressJet,Fort Smith,AR,FSM,Fort Smith Regional,87,20,1,0,66
+ExpressJet,Orlando,FL,MCO,Orlando International,24,3,1,0,20
+ExpressJet,Newport News/Williamsburg,VA,PHF,Newport News/Williamsburg International,162,28,0,2,132
+ExpressJet,Montgomery,AL,MGM,Montgomery Regional,193,38,2,0,153
+ExpressJet,Peoria,IL,PIA,General Downing - Peoria International,146,40,1,0,105
+ExpressJet,Wilmington,NC,ILM,Wilmington International,127,19,10,1,97
+ExpressJet,Columbus,MS,GTR,Golden Triangle Regional,85,8,1,0,76
+ExpressJet,Chicago,IL,MDW,Chicago Midway International,126,18,1,0,107
+ExpressJet,Philadelphia,PA,PHL,Philadelphia International,1,0,0,0,1
+ExpressJet,Brunswick,GA,BQK,Brunswick Golden Isles,86,10,2,1,73
+ExpressJet,Fort Wayne,IN,FWA,Fort Wayne International,30,5,0,0,25
+ExpressJet,Gainesville,FL,GNV,Gainesville Regional,119,18,2,0,99
+ExpressJet,Allentown/Bethlehem/Easton,PA,ABE,Lehigh Valley International,80,14,3,0,63
+ExpressJet,Dothan,AL,DHN,Dothan Regional,116,16,1,0,99
+ExpressJet,Valdosta,GA,VLD,Valdosta Regional,85,7,0,0,78
+ExpressJet,Columbus,GA,CSG,Columbus Airport,116,27,0,1,88
+ExpressJet,Fayetteville,NC,FAY,Fayetteville Regional/Grannis Field,139,30,0,1,108
+ExpressJet,Evansville,IN,EVV,Evansville Regional,146,23,2,0,121
+ExpressJet,Panama City,FL,ECP,Northwest Florida Beaches International,35,9,0,0,26
+ExpressJet,Kalamazoo,MI,AZO,Kalamazoo/Battle Creek International,134,13,3,0,118
+ExpressJet,Bloomington/Normal,IL,BMI,Central Illinois Regional,87,24,0,0,63
+ExpressJet,New Bern/Morehead/Beaufort,NC,EWN,Coastal Carolina Regional,92,15,3,1,73
+ExpressJet,Charlottesville,VA,CHO,Charlottesville Albemarle,85,17,0,0,68
+ExpressJet,Albany,GA,ABY,Southwest Georgia Regional,86,15,0,0,71
+ExpressJet,Scranton/Wilkes-Barre,PA,AVP,Wilkes Barre Scranton International,165,35,5,0,125
+ExpressJet,Jacksonville/Camp Lejeune,NC,OAJ,Albert J Ellis,115,24,2,1,88
+ExpressJet,Houston,TX,HOU,William P Hobby,1,0,0,0,1
+ExpressJet,New York,NY,JFK,John F. Kennedy International,124,33,13,0,78
+ExpressJet,Topeka,KS,FOE,Forbes Field,56,6,1,0,49
+ExpressJet,Bismarck/Mandan,ND,BIS,Bismarck Municipal,28,4,0,0,24
+ExpressJet,Williston,ND,ISN,Sloulin Field International,117,39,4,0,74
+ExpressJet,Santa Fe,NM,SAF,Santa Fe Municipal,61,18,2,0,41
+Frontier,Portland,OR,PDX,Portland International,138,32,0,0,106
+Frontier,Denver,CO,DEN,Denver International,3432,723,6,9,2694
+Frontier,Cincinnati,OH,CVG,Cincinnati/Northern Kentucky International,63,20,0,0,43
+Frontier,San Francisco,CA,SFO,San Francisco International,137,45,0,0,92
+Frontier,Spokane,WA,GEG,Spokane International,44,13,0,0,31
+Frontier,Washington,DC,DCA,Ronald Reagan Washington National,93,23,0,0,70
+Frontier,Cleveland,OH,CLE,Cleveland-Hopkins International,200,74,0,0,126
+Frontier,Orlando,FL,MCO,Orlando International,146,33,0,0,113
+Frontier,Raleigh/Durham,NC,RDU,Raleigh-Durham International,45,6,0,0,39
+Frontier,Tampa,FL,TPA,Tampa International,76,24,0,0,52
+Frontier,St. Louis,MO,STL,Lambert-St. Louis International,107,27,0,0,80
+Frontier,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,129,21,1,0,107
+Frontier,Los Angeles,CA,LAX,Los Angeles International,116,18,0,0,98
+Frontier,Wilmington,DE,ILG,New Castle,80,27,0,0,53
+Frontier,Chicago,IL,MDW,Chicago Midway International,165,49,0,0,116
+Frontier,Detroit,MI,DTW,Detroit Metro Wayne County,93,14,0,1,78
+Frontier,Minneapolis,MN,MSP,Minneapolis-St Paul International,151,42,0,0,109
+Frontier,Seattle,WA,SEA,Seattle/Tacoma International,138,44,0,0,94
+Frontier,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,168,38,1,0,129
+Frontier,Fargo,ND,FAR,Hector International,17,8,0,0,9
+Frontier,Santa Ana,CA,SNA,John Wayne Airport-Orange County,124,14,0,1,109
+Frontier,Austin,TX,AUS,Austin - Bergstrom International,62,7,0,0,55
+Frontier,Little Rock,AR,LIT,Bill and Hillary Clinton Nat Adams Field,17,4,0,0,13
+Frontier,Oklahoma City,OK,OKC,Will Rogers World,58,11,0,0,47
+Frontier,Salt Lake City,UT,SLC,Salt Lake City International,151,34,0,0,117
+Frontier,Greensboro/High Point,NC,GSO,Piedmont Triad International,18,1,0,0,17
+Frontier,Missoula,MT,MSO,Missoula International,17,6,0,0,11
+Frontier,Phoenix,AZ,PHX,Phoenix Sky Harbor International,147,26,0,1,120
+Frontier,Las Vegas,NV,LAS,McCarran International,168,33,0,0,135
+Frontier,Omaha,NE,OMA,Eppley Airfield,58,7,0,0,51
+Frontier,Nashville,TN,BNA,Nashville International,79,7,0,0,72
+Frontier,Kansas City,MO,MCI,Kansas City International,97,20,0,0,77
+Frontier,Bozeman,MT,BZN,Bozeman Yellowstone International,31,16,0,0,15
+Frontier,Houston,TX,IAH,George Bush Intercontinental/Houston,53,13,0,0,40
+Frontier,Memphis,TN,MEM,Memphis International,31,5,0,1,25
+Frontier,Trenton,NJ,TTN,Trenton Mercer,324,120,3,1,200
+Frontier,Indianapolis,IN,IND,Indianapolis International,80,19,0,0,61
+Frontier,Charlotte,NC,CLT,Charlotte Douglas International,18,10,2,0,6
+Frontier,Des Moines,IA,DSM,Des Moines International,36,13,0,0,23
+Frontier,San Diego,CA,SAN,San Diego International,120,15,0,0,105
+Frontier,Sioux Falls,SD,FSD,Joe Foss Field,31,15,0,0,16
+Frontier,New Orleans,LA,MSY,Louis Armstrong New Orleans International,35,5,0,0,30
+Frontier,Madison,WI,MSN,Dane County Regional-Truax Field,31,13,0,0,18
+Frontier,Knoxville,TN,TYS,McGhee Tyson,33,4,0,0,29
+Frontier,Durango,CO,DRO,Durango La Plata County,31,9,0,0,22
+Frontier,Bakersfield,CA,BFL,Meadows Field,14,3,0,0,11
+Frontier,Bloomington/Normal,IL,BMI,Central Illinois Regional,18,3,0,0,15
+Frontier,Fort Myers,FL,RSW,Southwest Florida International,48,14,0,0,34
+Frontier,Branson,MO,BKG,Branson Airport,31,6,0,0,25
+Frontier,Bismarck/Mandan,ND,BIS,Bismarck Municipal,17,8,0,0,9
+Frontier,Bellingham,WA,BLI,Bellingham International,14,0,0,0,14
+Frontier,Anchorage,AK,ANC,Ted Stevens Anchorage International,31,9,0,1,21
+Frontier,Milwaukee,WI,MKE,General Mitchell International,110,48,0,0,62
+Frontier,Jackson,WY,JAC,Jackson Hole,31,5,0,0,26
+Frontier,Fort Lauderdale,FL,FLL,Fort Lauderdale-Hollywood International,57,19,0,0,38
+Frontier,New York,NY,LGA,LaGuardia,61,20,0,0,41
+Frontier,Harrisburg,PA,MDT,Harrisburg International,47,2,0,0,45
+Frontier,Great Falls,MT,GTF,Great Falls International,14,5,0,0,9
+Frontier,Santa Barbara,CA,SBA,Santa Barbara Municipal,17,1,0,0,16
+Frontier,Idaho Falls,ID,IDA,Idaho Falls Regional,14,6,0,0,8
+Frontier,Fresno,CA,FAT,Fresno Yosemite International,17,1,0,0,16
+Frontier,Cedar Rapids/Iowa City,IA,CID,The Eastern Iowa,18,7,0,0,11
+Frontier,Eugene,OR,EUG,Mahlon Sweet Field,13,3,0,0,10
+Frontier,Fairbanks,AK,FAI,Fairbanks International,14,2,0,0,12
+Frontier,Newport News/Williamsburg,VA,PHF,Newport News/Williamsburg International,22,3,0,0,19
+Frontier,St. Augustine,FL,UST,Northeast Florida Regional,13,6,0,0,7
+Frontier,Minot,ND,MOT,Minot International,14,4,0,0,10
+Frontier,Sioux City,IA,SUX,Sioux Gateway/Col. Bud Day Field,14,8,0,0,6
+AirTran,Washington,DC,DCA,Ronald Reagan Washington National,213,37,1,1,174
+AirTran,Milwaukee,WI,MKE,General Mitchell International,181,33,1,0,147
+AirTran,Orlando,FL,MCO,Orlando International,399,75,0,1,323
+AirTran,Indianapolis,IN,IND,Indianapolis International,185,29,0,1,155
+AirTran,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,2812,460,9,8,2335
+AirTran,Fort Lauderdale,FL,FLL,Fort Lauderdale-Hollywood International,124,16,0,0,108
+AirTran,Houston,TX,HOU,William P Hobby,124,16,0,0,108
+AirTran,Jacksonville,FL,JAX,Jacksonville International,89,6,0,0,83
+AirTran,Kansas City,MO,MCI,Kansas City International,88,21,0,0,67
+AirTran,Minneapolis,MN,MSP,Minneapolis-St Paul International,93,5,2,0,86
+AirTran,Raleigh/Durham,NC,RDU,Raleigh-Durham International,89,15,0,0,74
+AirTran,St. Louis,MO,STL,Lambert-St. Louis International,88,14,0,0,74
+AirTran,Columbus,OH,CMH,Port Columbus International,62,4,0,0,58
+AirTran,Fort Myers,FL,RSW,Southwest Florida International,217,38,0,0,179
+AirTran,Richmond,VA,RIC,Richmond International,119,11,1,0,107
+AirTran,Boston,MA,BOS,Logan International,62,5,0,0,57
+AirTran,New Orleans,LA,MSY,Louis Armstrong New Orleans International,89,11,0,0,78
+AirTran,Philadelphia,PA,PHL,Philadelphia International,89,13,0,0,76
+AirTran,Detroit,MI,DTW,Detroit Metro Wayne County,89,13,0,0,76
+AirTran,Tampa,FL,TPA,Tampa International,278,61,1,1,215
+AirTran,Pittsburgh,PA,PIT,Pittsburgh International,132,15,0,0,117
+AirTran,Baltimore,MD,BWI,Baltimore/Washington International Thurgood Marshall,164,31,0,0,133
+AirTran,Chicago,IL,MDW,Chicago Midway International,303,37,0,0,266
+AirTran,Hartford,CT,BDL,Bradley International,93,17,0,0,76
+AirTran,Akron,OH,CAK,Akron-Canton Regional,155,32,1,0,122
+AirTran,New York,NY,LGA,LaGuardia,124,32,1,0,91
+AirTran,Oklahoma City,OK,OKC,Will Rogers World,62,12,0,0,50
+AirTran,Dayton,OH,DAY,James M Cox/Dayton International,31,3,0,0,28
+AirTran,Austin,TX,AUS,Austin - Bergstrom International,31,14,0,0,17
+AirTran,San Antonio,TX,SAT,San Antonio International,54,7,0,0,47
+AirTran,Las Vegas,NV,LAS,McCarran International,120,19,1,0,100
+AirTran,Denver,CO,DEN,Denver International,97,20,1,1,75
+AirTran,Santa Ana,CA,SNA,John Wayne Airport-Orange County,62,5,1,0,56
+AirTran,Los Angeles,CA,LAX,Los Angeles International,31,8,0,0,23
+AirTran,San Francisco,CA,SFO,San Francisco International,31,9,0,0,22
+Hawaiian,Los Angeles,CA,LAX,Los Angeles International,186,12,0,1,173
+Hawaiian,Honolulu,HI,HNL,Honolulu International,2908,206,4,2,2696
+Hawaiian,Las Vegas,NV,LAS,McCarran International,75,5,0,1,69
+Hawaiian,San Francisco,CA,SFO,San Francisco International,31,7,0,0,24
+Hawaiian,San Diego,CA,SAN,San Diego International,31,6,0,0,25
+Hawaiian,Sacramento,CA,SMF,Sacramento International,31,10,0,0,21
+Hawaiian,Seattle,WA,SEA,Seattle/Tacoma International,62,5,0,1,56
+Hawaiian,Oakland,CA,OAK,Metropolitan Oakland International,93,9,0,0,84
+Hawaiian,Kahului,HI,OGG,Kahului Airport,1283,63,1,1,1218
+Hawaiian,Portland,OR,PDX,Portland International,31,1,0,0,30
+Hawaiian,New York,NY,JFK,John F. Kennedy International,31,6,0,0,25
+Hawaiian,Kona,HI,KOA,Kona International Airport at Keahole,742,27,0,0,715
+Hawaiian,Lihue,HI,LIH,Lihue Airport,707,33,0,2,672
+Hawaiian,Hilo,HI,ITO,Hilo International,493,32,0,0,461
+Hawaiian,Pago Pago,TT,PPG,Pago Pago International,11,5,0,0,6
+Envoy,Cleveland,OH,CLE,Cleveland-Hopkins International,217,42,6,1,168
+Envoy,Chicago,IL,ORD,Chicago O'Hare International,6113,1356,139,3,4615
+Envoy,Cincinnati,OH,CVG,Cincinnati/Northern Kentucky International,497,113,14,0,370
+Envoy,Denver,CO,DEN,Denver International,155,45,11,0,99
+Hawaiian,Phoenix,AZ,PHX,Phoenix Sky Harbor International,31,7,0,0,24
+Hawaiian,San Jose,CA,SJC,Norman Y. Mineta San Jose International,62,7,0,0,55
+Envoy,Marquette,MI,MQT,Sawyer International,27,7,0,0,20
+Envoy,Omaha,NE,OMA,Eppley Airfield,59,9,0,0,50
+Envoy,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,6745,1399,252,26,5068
+Envoy,New York,NY,LGA,LaGuardia,1529,360,176,4,989
+Envoy,Roanoke,VA,ROA,Roanoke Regional/Woodrum Field,30,7,5,0,18
+Envoy,St. Louis,MO,STL,Lambert-St. Louis International,368,101,27,0,240
+Envoy,Evansville,IN,EVV,Evansville Regional,147,23,4,2,118
+Envoy,Wilmington,NC,ILM,Wilmington International,31,13,0,0,18
+Envoy,Syracuse,NY,SYR,Syracuse Hancock International,149,37,2,0,110
+Envoy,Lafayette,LA,LFT,Lafayette Regional,86,12,3,0,71
+Envoy,Flint,MI,FNT,Bishop International,65,8,3,0,54
+Envoy,Roswell,NM,ROW,Roswell International Air Center,88,17,5,0,66
+Envoy,Gulfport/Biloxi,MS,GPT,Gulfport-Biloxi International,122,19,4,0,99
+Envoy,Dubuque,IA,DBQ,Dubuque Regional,84,11,0,0,73
+Envoy,Durango,CO,DRO,Durango La Plata County,62,6,2,0,54
+Envoy,Traverse City,MI,TVC,Cherry Capital,34,7,0,0,27
+Envoy,Bloomington/Normal,IL,BMI,Central Illinois Regional,148,26,2,0,120
+Envoy,Alexandria,LA,AEX,Alexandria International,91,22,4,0,65
+Envoy,Madison,WI,MSN,Dane County Regional-Truax Field,261,44,9,0,208
+Envoy,Charlottesville,VA,CHO,Charlottesville Albemarle,31,2,1,0,28
+Envoy,College Station/Bryan,TX,CLL,Easterwood Field,88,15,6,0,67
+Envoy,Peoria,IL,PIA,General Downing - Peoria International,172,31,2,0,139
+Envoy,Cedar Rapids/Iowa City,IA,CID,The Eastern Iowa,236,34,5,0,197
+Envoy,New York,NY,JFK,John F. Kennedy International,558,98,52,3,405
+Envoy,Springfield,MO,SGF,Springfield-Branson National,324,86,3,0,235
+Envoy,Little Rock,AR,LIT,Bill and Hillary Clinton Nat Adams Field,294,81,14,1,198
+Envoy,Waco,TX,ACT,Waco Regional,120,24,4,0,92
+Envoy,Valparaiso,FL,VPS,Northwest Florida Regional,214,31,7,0,176
+Envoy,Columbus,OH,CMH,Port Columbus International,580,146,31,1,402
+Envoy,Fort Wayne,IN,FWA,Fort Wayne International,177,32,2,0,143
+Envoy,Detroit,MI,DTW,Detroit Metro Wayne County,346,62,19,1,264
+Envoy,Columbia,MO,COU,Columbia Regional,124,19,2,0,103
+Envoy,La Crosse,WI,LSE,La Crosse Municipal,146,16,3,0,127
+Envoy,Laredo,TX,LRD,Laredo International,116,16,5,0,95
+Envoy,Moline,IL,MLI,Quad City International,143,38,3,0,102
+Envoy,Lexington,KY,LEX,Blue Grass,118,31,4,0,83
+Envoy,Memphis,TN,MEM,Memphis International,145,25,5,0,115
+Envoy,Midland/Odessa,TX,MAF,Midland International,205,75,3,0,127
+Envoy,Fort Smith,AR,FSM,Fort Smith Regional,120,20,2,0,98
+Envoy,Fayetteville,AR,XNA,Northwest Arkansas Regional,460,133,12,0,315
+Envoy,Shreveport,LA,SHV,Shreveport Regional,120,20,6,0,94
+Envoy,Indianapolis,IN,IND,Indianapolis International,241,29,6,0,206
+Envoy,Montgomery,AL,MGM,Montgomery Regional,92,24,2,0,66
+Envoy,Jackson/Vicksburg,MS,JAN,Jackson Medgar Wiley Evers International,239,38,10,1,190
+Envoy,Killeen,TX,GRK,Robert Gray AAF,268,49,13,1,205
+Envoy,Toledo,OH,TOL,Toledo Express,87,18,2,0,67
+Envoy,Tulsa,OK,TUL,Tulsa International,153,34,3,0,116
+Envoy,Los Angeles,CA,LAX,Los Angeles International,553,126,25,0,402
+Envoy,Manhattan/Ft. Riley,KS,MHK,Manhattan Regional,152,39,3,0,110
+Envoy,Rochester,MN,RST,Rochester International,120,27,0,0,93
+Envoy,Abilene,TX,ABI,Abilene Regional,238,42,7,1,188
+Envoy,Baton Rouge,LA,BTR,Baton Rouge Metropolitan/Ryan Field,177,35,6,0,136
+Envoy,Dayton,OH,DAY,James M Cox/Dayton International,203,38,10,1,154
+Envoy,Grand Junction,CO,GJT,Grand Junction Regional,91,25,1,0,65
+Envoy,Louisville,KY,SDF,Louisville International-Standiford Field,176,55,13,0,108
+Envoy,Grand Rapids,MI,GRR,Gerald R. Ford International,330,69,7,0,254
+Envoy,Champaign/Urbana,IL,CMI,University of Illinois/Willard,211,36,3,0,172
+Envoy,Knoxville,TN,TYS,McGhee Tyson,203,54,6,0,143
+Envoy,Kalamazoo,MI,AZO,Kalamazoo/Battle Creek International,147,16,2,0,129
+Envoy,Lake Charles,LA,LCH,Lake Charles Regional,32,13,0,0,19
+Envoy,Amarillo,TX,AMA,Rick Husband Amarillo International,178,44,7,0,127
+Envoy,Nashville,TN,BNA,Nashville International,448,136,24,0,288
+Envoy,Green Bay,WI,GRB,Austin Straubel International,118,23,0,0,95
+Envoy,Oklahoma City,OK,OKC,Will Rogers World,240,73,3,1,163
+Envoy,Savannah,GA,SAV,Savannah/Hilton Head International,92,18,2,0,72
+Envoy,Hartford,CT,BDL,Bradley International,26,8,0,0,18
+Envoy,Baltimore,MD,BWI,Baltimore/Washington International Thurgood Marshall,88,23,5,0,60
+Envoy,Rochester,NY,ROC,Greater Rochester International,122,24,1,0,97
+Envoy,Des Moines,IA,DSM,Des Moines International,205,33,6,0,166
+Envoy,Rapid City,SD,RAP,Rapid City Regional,62,16,1,0,45
+Envoy,Richmond,VA,RIC,Richmond International,297,68,16,0,213
+Envoy,Pensacola,FL,PNS,Pensacola International,185,45,4,0,136
+Envoy,Santa Fe,NM,SAF,Santa Fe Municipal,121,19,6,1,95
+Envoy,Norfolk,VA,ORF,Norfolk International,180,41,13,0,126
+Envoy,Waterloo,IA,ALO,Waterloo Regional,57,9,0,0,48
+Envoy,Washington,DC,DCA,Ronald Reagan Washington National,300,51,27,0,222
+Envoy,Charleston,SC,CHS,Charleston AFB/International,123,31,2,1,89
+Envoy,El Paso,TX,ELP,El Paso International,123,29,5,0,89
+Envoy,Garden City,KS,GCK,Garden City Regional,31,8,0,0,23
+Envoy,Greensboro/High Point,NC,GSO,Piedmont Triad International,205,38,11,0,156
+Envoy,Joplin,MO,JLN,Joplin Regional,62,14,2,0,46
+Envoy,Albuquerque,NM,ABQ,Albuquerque International Sunport,92,20,3,0,69
+Envoy,Aspen,CO,ASE,Aspen Pitkin County Sardy Field,62,23,3,4,32
+Envoy,Harrisburg,PA,MDT,Harrisburg International,26,13,1,0,12
+Envoy,Grand Island,NE,GRI,Central Nebraska Regional,58,11,1,0,46
+Envoy,Lawton/Fort Sill,OK,LAW,Lawton-Fort Sill Regional,120,22,3,0,95
+Envoy,Pittsburgh,PA,PIT,Pittsburgh International,142,41,1,2,98
+Envoy,Huntsville,AL,HSV,Huntsville International-Carl T Jones Field,60,18,1,0,41
+Envoy,Houston,TX,HOU,William P Hobby,118,27,5,0,86
+Envoy,Lubbock,TX,LBB,Lubbock Preston Smith International,92,24,1,1,66
+Envoy,Salt Lake City,UT,SLC,Salt Lake City International,62,11,5,0,46
+Envoy,Minneapolis,MN,MSP,Minneapolis-St Paul International,27,16,1,0,10
+Envoy,Longview,TX,GGG,East Texas Regional,61,11,5,0,45
+Envoy,Mosinee,WI,CWA,Central Wisconsin,58,15,0,0,43
+Envoy,Sioux Falls,SD,FSD,Joe Foss Field,146,44,2,0,100
+Envoy,Buffalo,NY,BUF,Buffalo Niagara International,57,10,1,0,46
+Envoy,Beaumont/Port Arthur,TX,BPT,Jack Brooks Regional,1,0,0,0,1
+Envoy,Milwaukee,WI,MKE,General Mitchell International,93,6,3,0,84
+Envoy,Sioux City,IA,SUX,Sioux Gateway/Col. Bud Day Field,58,16,0,1,41
+Envoy,Chattanooga,TN,CHA,Lovell Field,90,15,2,1,72
+Envoy,San Jose,CA,SJC,Norman Y. Mineta San Jose International,89,15,4,0,70
+Envoy,Wichita Falls,TX,SPS,Sheppard AFB/Wichita Falls Municipal,119,17,6,0,96
+Envoy,Greer,SC,GSP,Greenville-Spartanburg International,91,21,3,0,67
+Envoy,Raleigh/Durham,NC,RDU,Raleigh-Durham International,386,94,38,0,254
+Envoy,Mobile,AL,MOB,Mobile Regional,90,23,2,0,65
+Envoy,Montrose/Delta,CO,MTJ,Montrose Regional,31,4,0,1,26
+Envoy,Corpus Christi,TX,CRP,Corpus Christi International,29,15,0,0,14
+Envoy,Miami,FL,MIA,Miami International,1369,269,28,9,1063
+Envoy,Birmingham,AL,BHM,Birmingham-Shuttlesworth International,93,13,0,0,80
+Envoy,Tallahassee,FL,TLH,Tallahassee Regional,177,39,4,1,133
+Envoy,Jacksonville,FL,JAX,Jacksonville International,216,45,4,1,166
+Envoy,Fargo,ND,FAR,Hector International,119,27,1,1,90
+Envoy,Gainesville,FL,GNV,Gainesville Regional,62,13,0,0,49
+Envoy,Texarkana,AR,TXK,Texarkana Regional-Webb Field,91,16,5,0,70
+Envoy,Key West,FL,EYW,Key West International,151,12,1,0,138
+Envoy,Springfield,IL,SPI,Abraham Lincoln Capital,62,9,2,1,50
+Envoy,San Angelo,TX,SJT,San Angelo Regional/Mathis Field,86,19,2,0,65
+Envoy,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,81,21,5,1,54
+Envoy,Houston,TX,IAH,George Bush Intercontinental/Houston,93,30,0,1,62
+Envoy,Columbia,SC,CAE,Columbia Metropolitan,92,16,2,1,73
+Envoy,San Antonio,TX,SAT,San Antonio International,31,6,0,0,25
+Envoy,Monroe,LA,MLU,Monroe Regional,31,6,1,0,24
+SkyWest,Los Angeles,CA,LAX,Los Angeles International,4993,829,39,1,4124
+SkyWest,Sacramento,CA,SMF,Sacramento International,727,145,36,0,546
+SkyWest,Tucson,AZ,TUS,Tucson International,481,122,10,1,348
+SkyWest,Albuquerque,NM,ABQ,Albuquerque International Sunport,466,101,6,0,359
+SkyWest,San Diego,CA,SAN,San Diego International,904,135,10,0,759
+Envoy,Tyler,TX,TYR,Tyler Pounds Regional,91,17,3,0,71
+SkyWest,Reno,NV,RNO,Reno/Tahoe International,544,114,12,2,416
+SkyWest,Fresno,CA,FAT,Fresno Yosemite International,893,189,16,0,688
+SkyWest,San Jose,CA,SJC,Norman Y. Mineta San Jose International,643,81,1,0,561
+SkyWest,Bend/Redmond,OR,RDM,Roberts Field,335,76,7,1,251
+SkyWest,Santa Maria,CA,SMX,Santa Maria Public/Capt. G. Allan Hancock Field,116,17,0,0,99
+SkyWest,San Francisco,CA,SFO,San Francisco International,3714,1147,283,4,2280
+SkyWest,Chicago,IL,ORD,Chicago O'Hare International,3709,962,113,1,2633
+SkyWest,Denver,CO,DEN,Denver International,4547,1052,113,35,3347
+SkyWest,Salt Lake City,UT,SLC,Salt Lake City International,4821,471,23,1,4326
+SkyWest,Houston,TX,IAH,George Bush Intercontinental/Houston,1278,320,42,11,905
+SkyWest,Colorado Springs,CO,COS,City of Colorado Springs Municipal,518,156,17,3,342
+SkyWest,Burbank,CA,BUR,Bob Hope,461,83,12,0,366
+SkyWest,Appleton,WI,ATW,Outagamie County Regional,61,10,1,0,50
+SkyWest,Detroit,MI,DTW,Detroit Metro Wayne County,643,92,17,0,534
+SkyWest,Grand Forks,ND,GFK,Grand Forks International,117,9,1,0,107
+SkyWest,Grand Rapids,MI,GRR,Gerald R. Ford International,86,6,3,0,77
+SkyWest,Cincinnati,OH,CVG,Cincinnati/Northern Kentucky International,148,14,2,0,132
+SkyWest,Fargo,ND,FAR,Hector International,139,45,0,0,94
+SkyWest,Minneapolis,MN,MSP,Minneapolis-St Paul International,1975,268,42,4,1661
+SkyWest,Rapid City,SD,RAP,Rapid City Regional,279,56,7,2,214
+SkyWest,Duluth,MN,DLH,Duluth International,135,42,3,0,90
+SkyWest,Phoenix,AZ,PHX,Phoenix Sky Harbor International,2057,366,54,10,1627
+SkyWest,Nashville,TN,BNA,Nashville International,174,21,0,0,153
+SkyWest,Monterey,CA,MRY,Monterey Regional,400,68,29,0,303
+SkyWest,Portland,OR,PDX,Portland International,797,92,11,0,694
+SkyWest,Seattle,WA,SEA,Seattle/Tacoma International,695,83,3,1,608
+SkyWest,Saginaw/Bay City/Midland,MI,MBS,MBS International,119,29,3,2,85
+SkyWest,Wichita,KS,ICT,Wichita Mid-Continent,214,63,7,1,143
+SkyWest,Bismarck/Mandan,ND,BIS,Bismarck Municipal,198,39,5,0,154
+SkyWest,Idaho Falls,ID,IDA,Idaho Falls Regional,317,37,3,0,277
+SkyWest,Tulsa,OK,TUL,Tulsa International,158,43,7,0,108
+SkyWest,Kansas City,MO,MCI,Kansas City International,220,61,3,0,156
+SkyWest,Santa Ana,CA,SNA,John Wayne Airport-Orange County,255,56,0,0,199
+SkyWest,Santa Barbara,CA,SBA,Santa Barbara Municipal,605,117,36,1,451
+SkyWest,Fayetteville,AR,XNA,Northwest Arkansas Regional,51,9,1,0,41
+SkyWest,Palm Springs,CA,PSP,Palm Springs International,512,100,6,0,406
+SkyWest,Carlsbad,CA,CLD,McClellan-Palomar,233,32,0,1,200
+SkyWest,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,332,104,5,0,223
+SkyWest,Grand Junction,CO,GJT,Grand Junction Regional,175,27,3,0,145
+SkyWest,Kalispell,MT,FCA,Glacier Park International,305,58,2,0,245
+SkyWest,New York,NY,LGA,LaGuardia,44,6,2,0,36
+SkyWest,Ontario,CA,ONT,Ontario International,430,94,11,0,325
+SkyWest,Asheville,NC,AVL,Asheville Regional,101,31,3,1,66
+SkyWest,Rock Springs,WY,RKS,Rock Springs Sweetwater County,155,15,1,0,139
+SkyWest,Springfield,IL,SPI,Abraham Lincoln Capital,93,24,5,0,64
+SkyWest,San Antonio,TX,SAT,San Antonio International,351,104,1,0,246
+SkyWest,Bakersfield,CA,BFL,Meadows Field,307,65,9,0,233
+SkyWest,Redding,CA,RDD,Redding Municipal,93,19,12,0,62
+SkyWest,Laramie,WY,LAR,Laramie Regional,62,12,2,0,48
+SkyWest,Jamestown,ND,JMS,Jamestown Regional,76,13,0,0,63
+SkyWest,El Paso,TX,ELP,El Paso International,184,54,7,1,122
+SkyWest,West Yellowstone,MT,WYS,Yellowstone,70,1,0,1,68
+SkyWest,Iron Mountain/Kingsfd,MI,IMT,Ford,58,5,0,0,53
+SkyWest,Brainerd,MN,BRD,Brainerd Lakes Regional,85,13,0,0,72
+SkyWest,International Falls,MN,INL,Falls International,62,9,0,0,53
+SkyWest,Las Vegas,NV,LAS,McCarran International,639,107,5,2,525
+SkyWest,Williston,ND,ISN,Sloulin Field International,108,9,1,1,97
+SkyWest,Great Falls,MT,GTF,Great Falls International,181,29,0,1,151
+SkyWest,Missoula,MT,MSO,Missoula International,394,73,9,1,311
+SkyWest,Little Rock,AR,LIT,Bill and Hillary Clinton Nat Adams Field,93,21,0,0,72
+SkyWest,Madison,WI,MSN,Dane County Regional-Truax Field,113,29,4,0,80
+SkyWest,Boise,ID,BOI,Boise Air Terminal,414,89,3,0,322
+SkyWest,Omaha,NE,OMA,Eppley Airfield,183,22,2,0,159
+SkyWest,St. Louis,MO,STL,Lambert-St. Louis International,27,9,0,0,18
+SkyWest,Sioux Falls,SD,FSD,Joe Foss Field,210,54,8,0,148
+SkyWest,Milwaukee,WI,MKE,General Mitchell International,767,220,20,2,525
+SkyWest,Flagstaff,AZ,FLG,Flagstaff Pulliam,180,36,9,1,134
+SkyWest,Durango,CO,DRO,Durango La Plata County,120,28,7,2,83
+SkyWest,Arcata/Eureka,CA,ACV,Arcata,260,64,31,3,162
+SkyWest,Crescent City,CA,CEC,Jack McNamara Field,85,34,9,2,40
+SkyWest,San Luis Obispo,CA,SBP,San Luis County Regional,410,80,20,2,308
+SkyWest,Gillette,WY,GCC,Gillette Campbell County,124,19,0,0,105
+SkyWest,Yuma,AZ,YUM,Yuma MCAS/Yuma International,239,33,7,0,199
+SkyWest,St. George,UT,SGU,St George Municipal,146,12,0,0,134
+SkyWest,Rhinelander,WI,RHI,Rhinelander/Oneida County,89,10,1,0,78
+SkyWest,Eugene,OR,EUG,Mahlon Sweet Field,486,90,10,0,386
+SkyWest,Long Beach,CA,LGB,Long Beach Airport,221,31,0,1,189
+SkyWest,Moab,UT,CNY,Canyonlands Field,52,3,0,0,49
+SkyWest,Santa Fe,NM,SAF,Santa Fe Municipal,31,10,0,1,20
+SkyWest,Charlottesville,VA,CHO,Charlottesville Albemarle,61,19,0,0,42
+SkyWest,New Orleans,LA,MSY,Louis Armstrong New Orleans International,37,14,0,0,23
+SkyWest,Austin,TX,AUS,Austin - Bergstrom International,385,95,7,3,280
+SkyWest,Gunnison,CO,GUC,Gunnison-Crested Butte Regional,10,5,1,0,4
+SkyWest,Aspen,CO,ASE,Aspen Pitkin County Sardy Field,316,110,9,3,194
+SkyWest,Oklahoma City,OK,OKC,Will Rogers World,362,85,3,1,273
+SkyWest,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,198,48,4,3,143
+SkyWest,Muskegon,MI,MKG,Muskegon County,62,13,3,0,46
+SkyWest,Vernal,UT,VEL,Vernal Regional,54,1,1,0,52
+SkyWest,Hibbing,MN,HIB,Range Regional,53,3,2,0,48
+SkyWest,Aberdeen,SD,ABR,Aberdeen Regional,62,2,3,0,57
+SkyWest,North Bend/Coos Bay,OR,OTH,Southwest Oregon Regional,60,15,10,0,35
+SkyWest,Twin Falls,ID,TWF,Joslin Field - Magic Valley Regional,62,4,0,0,58
+SkyWest,Traverse City,MI,TVC,Cherry Capital,60,14,1,0,45
+SkyWest,Pellston,MI,PLN,Pellston Regional Airport of Emmet County,117,9,1,0,107
+SkyWest,Spokane,WA,GEG,Spokane International,57,11,1,0,45
+SkyWest,Billings,MT,BIL,Billings Logan International,92,15,0,0,77
+SkyWest,Des Moines,IA,DSM,Des Moines International,192,49,5,0,138
+SkyWest,South Bend,IN,SBN,South Bend International,373,69,11,0,293
+SkyWest,Memphis,TN,MEM,Memphis International,93,22,0,0,71
+SkyWest,Minot,ND,MOT,Minot International,115,36,2,1,76
+SkyWest,Bozeman,MT,BZN,Bozeman Yellowstone International,239,38,6,2,193
+SkyWest,Dayton,OH,DAY,James M Cox/Dayton International,54,10,1,0,43
+SkyWest,Sault Ste. Marie,MI,CIU,Chippewa County International,58,3,3,1,51
+SkyWest,Pasco/Kennewick/Richland,WA,PSC,Tri Cities,299,57,5,1,236
+SkyWest,Lewiston,ID,LWS,Lewiston Nez Perce County,32,1,0,0,31
+SkyWest,Green Bay,WI,GRB,Austin Straubel International,13,1,0,0,12
+SkyWest,Lansing,MI,LAN,Capital Region International,28,1,1,0,26
+SkyWest,Oakland,CA,OAK,Metropolitan Oakland International,199,23,0,0,176
+SkyWest,Jackson,WY,JAC,Jackson Hole,150,32,0,0,118
+SkyWest,Rochester,MN,RST,Rochester International,1,0,0,0,1
+SkyWest,Cedar Rapids/Iowa City,IA,CID,The Eastern Iowa,90,30,2,0,58
+SkyWest,Medford,OR,MFR,Rogue Valley International - Medford,248,36,15,0,197
+SkyWest,La Crosse,WI,LSE,La Crosse Municipal,1,0,0,0,1
+SkyWest,Dickinson,ND,DIK,Dickinson - Theodore Roosevelt Regional,80,10,1,0,69
+SkyWest,Helena,MT,HLN,Helena Regional,150,14,2,0,134
+SkyWest,Sun Valley/Hailey/Ketchum,ID,SUN,Friedman Memorial,148,29,1,2,116
+SkyWest,Washington,DC,IAD,Washington Dulles International,167,48,6,3,110
+SkyWest,Albany,NY,ALB,Albany International,35,16,2,0,17
+SkyWest,Syracuse,NY,SYR,Syracuse Hancock International,4,1,0,0,3
+SkyWest,Hayden,CO,HDN,Yampa Valley,2,2,0,0,0
+SkyWest,Montrose/Delta,CO,MTJ,Montrose Regional,24,6,0,0,18
+SkyWest,West Palm Beach/Palm Beach,FL,PBI,Palm Beach International,3,1,1,0,1
+SkyWest,Columbus,OH,CMH,Port Columbus International,30,7,1,0,22
+SkyWest,Lincoln,NE,LNK,Lincoln Airport,106,42,2,0,62
+SkyWest,Moline,IL,MLI,Quad City International,54,18,0,0,36
+SkyWest,Boston,MA,BOS,Logan International,77,20,2,0,55
+SkyWest,Washington,DC,DCA,Ronald Reagan Washington National,153,43,2,0,108
+SkyWest,Fort Myers,FL,RSW,Southwest Florida International,5,2,1,0,2
+SkyWest,Miami,FL,MIA,Miami International,53,34,0,1,18
+SkyWest,Birmingham,AL,BHM,Birmingham-Shuttlesworth International,39,16,3,1,19
+SkyWest,Cleveland,OH,CLE,Cleveland-Hopkins International,80,26,2,0,52
+SkyWest,Indianapolis,IN,IND,Indianapolis International,154,56,5,1,92
+SkyWest,Midland/Odessa,TX,MAF,Midland International,124,36,3,0,85
+SkyWest,Raleigh/Durham,NC,RDU,Raleigh-Durham International,3,2,0,0,1
+SkyWest,Baton Rouge,LA,BTR,Baton Rouge Metropolitan/Ryan Field,51,13,4,0,34
+SkyWest,Flint,MI,FNT,Bishop International,1,0,0,0,1
+SkyWest,Pittsburgh,PA,PIT,Pittsburgh International,21,6,0,0,15
+SkyWest,Tampa,FL,TPA,Tampa International,1,0,0,0,1
+SkyWest,Peoria,IL,PIA,General Downing - Peoria International,27,11,0,0,16
+SkyWest,Louisville,KY,SDF,Louisville International-Standiford Field,14,5,1,0,8
+SkyWest,Charleston,SC,CHS,Charleston AFB/International,28,8,1,0,19
+SkyWest,Springfield,MO,SGF,Springfield-Branson National,31,17,1,0,13
+SkyWest,Charlotte,NC,CLT,Charlotte Douglas International,3,1,0,0,2
+SkyWest,Norfolk,VA,ORF,Norfolk International,21,11,1,0,9
+SkyWest,Hancock/Houghton,MI,CMX,Houghton County Memorial,62,30,2,0,30
+SkyWest,Chico,CA,CIC,Chico Municipal,92,30,15,0,47
+SkyWest,Pueblo,CO,PUB,Pueblo Memorial,53,10,0,0,43
+SkyWest,Devils Lake,ND,DVL,Devils Lake Regional,49,12,0,0,37
+SkyWest,St. Cloud,MN,STC,St. Cloud Regional,62,24,1,0,37
+SkyWest,Fort Wayne,IN,FWA,Fort Wayne International,114,33,4,0,77
+SkyWest,Eau Claire,WI,EAU,Chippewa Valley Regional,62,29,1,0,32
+SkyWest,Paducah,KY,PAH,Barkley Regional,62,14,3,0,45
+SkyWest,Mission/McAllen/Edinburg,TX,MFE,McAllen Miller International,2,1,0,0,1
+SkyWest,Cody,WY,COD,Yellowstone Regional,102,25,1,0,76
+SkyWest,Casper,WY,CPR,Casper/Natrona County International,203,47,8,0,148
+SkyWest,Mosinee,WI,CWA,Central Wisconsin,1,0,0,0,1
+SkyWest,Hartford,CT,BDL,Bradley International,25,8,0,0,17
+SkyWest,Bemidji,MN,BJI,Bemidji Regional,62,5,2,0,55
+SkyWest,Butte,MT,BTM,Bert Mooney,83,2,0,0,81
+SkyWest,Cedar City,UT,CDC,Cedar City Regional,54,8,0,0,46
+SkyWest,Elko,NV,EKO,Elko Regional,82,1,0,1,80
+SkyWest,Pocatello,ID,PIH,Pocatello Regional,116,9,0,0,107
+United,Newark,NJ,EWR,Newark Liberty International,3977,935,94,41,2907
+United,Orlando,FL,MCO,Orlando International,1105,270,6,5,824
+United,Austin,TX,AUS,Austin - Bergstrom International,298,72,2,2,222
+United,Chicago,IL,ORD,Chicago O'Hare International,5105,1167,94,3,3841
+United,Honolulu,HI,HNL,Honolulu International,560,161,6,2,391
+United,San Francisco,CA,SFO,San Francisco International,4891,1130,56,4,3701
+United,Denver,CO,DEN,Denver International,3842,840,39,24,2939
+United,Las Vegas,NV,LAS,McCarran International,1070,231,4,0,835
+United,Washington,DC,IAD,Washington Dulles International,1831,358,16,6,1451
+United,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,267,82,2,1,182
+United,Houston,TX,IAH,George Bush Intercontinental/Houston,5400,1117,66,34,4183
+United,Guam,TT,GUM,Guam International,31,12,2,1,16
+United,Baltimore,MD,BWI,Baltimore/Washington International Thurgood Marshall,309,71,3,1,234
+United,Salt Lake City,UT,SLC,Salt Lake City International,56,16,0,0,40
+United,Los Angeles,CA,LAX,Los Angeles International,3232,727,39,1,2465
+United,Boston,MA,BOS,Logan International,1143,300,21,3,819
+United,Cleveland,OH,CLE,Cleveland-Hopkins International,734,129,7,1,597
+United,Seattle,WA,SEA,Seattle/Tacoma International,1077,281,9,0,787
+United,San Diego,CA,SAN,San Diego International,820,187,7,0,626
+United,Fort Lauderdale,FL,FLL,Fort Lauderdale-Hollywood International,424,121,4,1,298
+United,New York,NY,JFK,John F. Kennedy International,409,121,3,4,281
+United,Washington,DC,DCA,Ronald Reagan Washington National,445,102,9,6,328
+United,New Orleans,LA,MSY,Louis Armstrong New Orleans International,273,78,3,0,192
+United,Providence,RI,PVD,Theodore Francis Green State,60,17,0,0,43
+United,Harrisburg,PA,MDT,Harrisburg International,52,19,0,0,33
+United,Jackson,WY,JAC,Jackson Hole,139,43,1,0,95
+United,Albany,NY,ALB,Albany International,82,23,1,1,57
+United,Wichita,KS,ICT,Wichita Mid-Continent,27,5,0,0,22
+United,Portland,OR,PDX,Portland International,588,151,1,0,436
+United,Indianapolis,IN,IND,Indianapolis International,57,14,0,0,43
+United,Fort Myers,FL,RSW,Southwest Florida International,120,22,2,0,96
+United,Phoenix,AZ,PHX,Phoenix Sky Harbor International,345,105,3,2,235
+United,Santa Ana,CA,SNA,John Wayne Airport-Orange County,492,93,6,1,392
+United,New York,NY,LGA,LaGuardia,674,192,28,3,451
+SkyWest,Alpena,MI,APN,Alpena County Regional,54,5,0,0,49
+United,Raleigh/Durham,NC,RDU,Raleigh-Durham International,109,34,1,0,74
+United,San Antonio,TX,SAT,San Antonio International,178,52,2,0,124
+United,Lihue,HI,LIH,Lihue Airport,97,9,3,0,85
+United,Philadelphia,PA,PHL,Philadelphia International,359,122,1,2,234
+United,Bozeman,MT,BZN,Bozeman Yellowstone International,104,22,0,0,82
+United,Tampa,FL,TPA,Tampa International,506,125,3,6,372
+United,Richmond,VA,RIC,Richmond International,30,6,0,0,24
+United,Omaha,NE,OMA,Eppley Airfield,66,20,1,0,45
+United,Sacramento,CA,SMF,Sacramento International,250,58,3,1,188
+United,Kahului,HI,OGG,Kahului Airport,255,41,3,1,210
+United,Minneapolis,MN,MSP,Minneapolis-St Paul International,82,21,1,0,60
+United,Pittsburgh,PA,PIT,Pittsburgh International,251,54,2,1,194
+United,Reno,NV,RNO,Reno/Tahoe International,62,17,0,0,45
+United,Miami,FL,MIA,Miami International,153,55,1,1,96
+United,Rochester,NY,ROC,Greater Rochester International,59,14,1,0,44
+United,West Palm Beach/Palm Beach,FL,PBI,Palm Beach International,114,44,3,0,67
+United,San Jose,CA,SJC,Norman Y. Mineta San Jose International,114,25,1,0,88
+United,Boise,ID,BOI,Boise Air Terminal,57,16,0,0,41
+United,Buffalo,NY,BUF,Buffalo Niagara International,60,19,1,0,40
+United,Anchorage,AK,ANC,Ted Stevens Anchorage International,159,45,0,0,114
+United,Billings,MT,BIL,Billings Logan International,56,13,1,0,42
+United,Columbus,OH,CMH,Port Columbus International,31,10,1,0,20
+United,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,61,37,0,1,23
+United,Grand Rapids,MI,GRR,Gerald R. Ford International,61,20,0,0,41
+United,San Juan,PR,SJU,Luis Munoz Marin International,175,47,0,0,128
+United,Aguadilla,PR,BQN,Rafael Hernandez,31,10,1,0,20
+United,Kona,HI,KOA,Kona International Airport at Keahole,131,22,0,0,109
+United,Spokane,WA,GEG,Spokane International,57,13,1,0,43
+United,Fairbanks,AK,FAI,Fairbanks International,39,19,0,0,20
+United,Kansas City,MO,MCI,Kansas City International,27,13,0,0,14
+United,Hartford,CT,BDL,Bradley International,69,19,0,0,50
+United,Des Moines,IA,DSM,Des Moines International,46,15,0,0,31
+United,Charlotte Amalie,VI,STT,Cyril E King,38,15,1,0,22
+United,Oklahoma City,OK,OKC,Will Rogers World,33,14,1,0,18
+United,Hilo,HI,ITO,Hilo International,31,5,0,2,24
+United,Detroit,MI,DTW,Detroit Metro Wayne County,43,17,0,0,26
+United,Charlotte,NC,CLT,Charlotte Douglas International,26,9,0,0,17
+United,St. Louis,MO,STL,Lambert-St. Louis International,27,4,0,0,23
+United,Eagle,CO,EGE,Eagle County Regional,13,4,0,1,8
+US Airways,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,610,119,12,0,479
+US Airways,Phoenix,AZ,PHX,Phoenix Sky Harbor International,5342,842,58,36,4406
+US Airways,San Francisco,CA,SFO,San Francisco International,522,159,2,1,360
+US Airways,Detroit,MI,DTW,Detroit Metro Wayne County,336,62,5,0,269
+US Airways,Denver,CO,DEN,Denver International,462,157,4,4,297
+US Airways,Fort Lauderdale,FL,FLL,Fort Lauderdale-Hollywood International,433,134,3,0,296
+US Airways,Kansas City,MO,MCI,Kansas City International,224,46,0,1,177
+US Airways,Santa Ana,CA,SNA,John Wayne Airport-Orange County,124,21,0,0,103
+US Airways,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,474,111,3,0,360
+US Airways,Charlotte,NC,CLT,Charlotte Douglas International,7544,1450,110,12,5972
+US Airways,Minneapolis,MN,MSP,Minneapolis-St Paul International,372,84,3,0,285
+US Airways,Philadelphia,PA,PHL,Philadelphia International,4038,819,95,13,3111
+US Airways,Portland,OR,PDX,Portland International,245,63,2,0,180
+US Airways,Chicago,IL,ORD,Chicago O'Hare International,641,196,11,1,433
+US Airways,New York,NY,JFK,John F. Kennedy International,271,84,11,3,173
+US Airways,Sacramento,CA,SMF,Sacramento International,215,40,6,0,169
+US Airways,Las Vegas,NV,LAS,McCarran International,553,124,1,0,428
+US Airways,Salt Lake City,UT,SLC,Salt Lake City International,216,45,3,0,168
+US Airways,San Jose,CA,SJC,Norman Y. Mineta San Jose International,154,20,1,0,133
+US Airways,Boston,MA,BOS,Logan International,1653,332,77,0,1244
+US Airways,Omaha,NE,OMA,Eppley Airfield,61,13,0,0,48
+US Airways,Houston,TX,IAH,George Bush Intercontinental/Houston,490,110,4,4,372
+US Airways,Los Angeles,CA,LAX,Los Angeles International,580,179,4,1,396
+US Airways,San Diego,CA,SAN,San Diego International,338,83,3,1,251
+US Airways,Reno,NV,RNO,Reno/Tahoe International,122,15,0,0,107
+US Airways,Baltimore,MD,BWI,Baltimore/Washington International Thurgood Marshall,414,129,8,2,275
+US Airways,Orlando,FL,MCO,Orlando International,795,217,8,0,570
+US Airways,Ontario,CA,ONT,Ontario International,165,32,1,0,132
+US Airways,Newark,NJ,EWR,Newark Liberty International,341,109,10,2,220
+US Airways,Long Beach,CA,LGB,Long Beach Airport,58,8,1,0,49
+US Airways,Raleigh/Durham,NC,RDU,Raleigh-Durham International,431,95,7,2,327
+US Airways,Columbus,OH,CMH,Port Columbus International,62,8,0,0,54
+US Airways,St. Louis,MO,STL,Lambert-St. Louis International,175,28,5,1,141
+US Airways,Miami,FL,MIA,Miami International,611,173,9,2,427
+US Airways,Seattle,WA,SEA,Seattle/Tacoma International,400,92,3,0,305
+US Airways,Pittsburgh,PA,PIT,Pittsburgh International,390,70,8,0,312
+US Airways,Spokane,WA,GEG,Spokane International,58,11,0,0,47
+US Airways,Oakland,CA,OAK,Metropolitan Oakland International,84,20,0,0,64
+US Airways,New York,NY,LGA,LaGuardia,1173,251,88,0,834
+US Airways,Austin,TX,AUS,Austin - Bergstrom International,54,18,0,0,36
+US Airways,Washington,DC,DCA,Ronald Reagan Washington National,1591,309,74,10,1198
+US Airways,New Orleans,LA,MSY,Louis Armstrong New Orleans International,237,42,3,0,192
+US Airways,Indianapolis,IN,IND,Indianapolis International,143,27,4,0,112
+US Airways,Richmond,VA,RIC,Richmond International,91,12,0,0,79
+US Airways,Portland,ME,PWM,Portland International Jetport,64,14,0,0,50
+US Airways,West Palm Beach/Palm Beach,FL,PBI,Palm Beach International,182,52,0,0,130
+US Airways,Buffalo,NY,BUF,Buffalo Niagara International,114,29,0,0,85
+US Airways,Tampa,FL,TPA,Tampa International,642,167,4,1,470
+US Airways,Fort Myers,FL,RSW,Southwest Florida International,184,52,1,1,130
+US Airways,Providence,RI,PVD,Theodore Francis Green State,116,29,2,0,85
+US Airways,Hartford,CT,BDL,Bradley International,167,46,4,0,117
+US Airways,Norfolk,VA,ORF,Norfolk International,83,23,1,0,59
+US Airways,Nashville,TN,BNA,Nashville International,94,24,0,0,70
+US Airways,Syracuse,NY,SYR,Syracuse Hancock International,57,14,1,0,42
+US Airways,Jacksonville,FL,JAX,Jacksonville International,173,31,0,0,142
+US Airways,Cleveland,OH,CLE,Cleveland-Hopkins International,84,16,0,0,68
+US Airways,San Antonio,TX,SAT,San Antonio International,60,15,2,0,43
+US Airways,Albany,NY,ALB,Albany International,58,10,0,0,48
+United,Sarasota/Bradenton,FL,SRQ,Sarasota/Bradenton International,1,1,0,0,0
+US Airways,San Juan,PR,SJU,Luis Munoz Marin International,176,67,0,0,109
+US Airways,Charlotte Amalie,VI,STT,Cyril E King,55,16,0,0,39
+SkyWest,Dallas,TX,DAL,Dallas Love Field,1,1,0,0,0
+US Airways,Milwaukee,WI,MKE,General Mitchell International,62,9,0,0,53
+US Airways,Anchorage,AK,ANC,Ted Stevens Anchorage International,31,5,0,0,26
+US Airways,Boise,ID,BOI,Boise Air Terminal,88,19,0,0,69
+US Airways,Kahului,HI,OGG,Kahului Airport,62,10,0,0,52
+US Airways,Honolulu,HI,HNL,Honolulu International,93,10,1,0,82
+US Airways,Kona,HI,KOA,Kona International Airport at Keahole,31,3,1,0,27
+US Airways,Lihue,HI,LIH,Lihue Airport,35,9,0,0,26
+US Airways,Wilmington,NC,ILM,Wilmington International,4,0,0,0,4
+US Airways,Des Moines,IA,DSM,Des Moines International,1,0,0,0,1
+Virgin,Los Angeles,CA,LAX,Los Angeles International,1239,203,4,2,1030
+Virgin,San Francisco,CA,SFO,San Francisco International,1536,390,0,3,1143
+Virgin,New York,NY,JFK,John F. Kennedy International,363,89,2,3,269
+Virgin,Philadelphia,PA,PHL,Philadelphia International,93,24,0,0,69
+Virgin,Boston,MA,BOS,Logan International,203,36,0,0,167
+Virgin,Newark,NJ,EWR,Newark Liberty International,184,36,0,2,146
+Virgin,Seattle,WA,SEA,Seattle/Tacoma International,233,22,0,0,211
+Virgin,San Diego,CA,SAN,San Diego International,146,16,0,0,130
+Virgin,Chicago,IL,ORD,Chicago O'Hare International,149,30,0,0,119
+Virgin,Austin,TX,AUS,Austin - Bergstrom International,55,12,0,0,43
+Virgin,Las Vegas,NV,LAS,McCarran International,360,41,0,0,319
+Virgin,Washington,DC,DCA,Ronald Reagan Washington National,31,1,0,0,30
+Virgin,Orlando,FL,MCO,Orlando International,34,3,0,0,31
+Virgin,Fort Lauderdale,FL,FLL,Fort Lauderdale-Hollywood International,93,9,0,0,84
+Virgin,Washington,DC,IAD,Washington Dulles International,158,16,0,0,142
+Virgin,Dallas/Fort Worth,TX,DFW,Dallas/Fort Worth International,177,31,0,0,146
+Virgin,Portland,OR,PDX,Portland International,31,3,0,0,28
+Southwest,Baltimore,MD,BWI,Baltimore/Washington International Thurgood Marshall,6161,1506,63,20,4572
+Southwest,Akron,OH,CAK,Akron-Canton Regional,247,110,2,0,135
+Southwest,Charleston,SC,CHS,Charleston AFB/International,242,86,0,0,156
+Southwest,Cleveland,OH,CLE,Cleveland-Hopkins International,403,136,4,1,262
+Southwest,Charlotte,NC,CLT,Charlotte Douglas International,208,84,1,0,123
+Southwest,Columbus,OH,CMH,Port Columbus International,870,300,8,2,560
+Southwest,Corpus Christi,TX,CRP,Corpus Christi International,119,35,1,0,83
+Southwest,Dallas,TX,DAL,Dallas Love Field,3602,1086,56,6,2454
+Southwest,Dayton,OH,DAY,James M Cox/Dayton International,155,50,2,1,102
+Southwest,Washington,DC,DCA,Ronald Reagan Washington National,310,57,4,1,248
+Southwest,Denver,CO,DEN,Denver International,5160,1289,15,50,3806
+Southwest,Des Moines,IA,DSM,Des Moines International,93,43,0,0,50
+Southwest,Detroit,MI,DTW,Detroit Metro Wayne County,533,176,0,2,355
+Southwest,Panama City,FL,ECP,Northwest Florida Beaches International,201,80,0,1,120
+Southwest,El Paso,TX,ELP,El Paso International,762,256,1,0,505
+Southwest,Newark,NJ,EWR,Newark Liberty International,526,206,16,5,299
+Southwest,Fort Lauderdale,FL,FLL,Fort Lauderdale-Hollywood International,1583,483,10,3,1087
+Southwest,Flint,MI,FNT,Bishop International,123,46,0,0,77
+Southwest,Spokane,WA,GEG,Spokane International,296,89,0,0,207
+Southwest,Grand Rapids,MI,GRR,Gerald R. Ford International,163,78,1,0,84
+Southwest,Greer,SC,GSP,Greenville-Spartanburg International,119,38,0,0,81
+Southwest,Houston,TX,HOU,William P Hobby,4710,1401,48,4,3257
+Southwest,Harlingen/San Benito,TX,HRL,Valley International,175,49,0,0,126
+Southwest,Washington,DC,IAD,Washington Dulles International,212,65,2,3,142
+Southwest,Wichita,KS,ICT,Wichita Mid-Continent,145,45,0,0,100
+Southwest,Indianapolis,IN,IND,Indianapolis International,716,254,3,0,459
+Southwest,Islip,NY,ISP,Long Island MacArthur,403,149,1,0,253
+Southwest,Jacksonville,FL,JAX,Jacksonville International,444,159,2,2,281
+Southwest,Las Vegas,NV,LAS,McCarran International,6562,1659,52,6,4845
+Southwest,Philadelphia,PA,PHL,Philadelphia International,711,272,5,2,432
+Southwest,Phoenix,AZ,PHX,Phoenix Sky Harbor International,4988,1534,53,25,3376
+Southwest,Pittsburgh,PA,PIT,Pittsburgh International,801,284,7,0,510
+Southwest,Los Angeles,CA,LAX,Los Angeles International,3585,1141,78,2,2364
+Southwest,Lubbock,TX,LBB,Lubbock Preston Smith International,211,82,3,0,126
+Southwest,New York,NY,LGA,LaGuardia,871,269,25,10,567
+Southwest,Little Rock,AR,LIT,Bill and Hillary Clinton Nat Adams Field,301,112,6,3,180
+Southwest,Midland/Odessa,TX,MAF,Midland International,303,95,2,1,205
+Southwest,Kansas City,MO,MCI,Kansas City International,2138,658,5,2,1473
+Southwest,Orlando,FL,MCO,Orlando International,3313,931,32,16,2334
+Southwest,Chicago,IL,MDW,Chicago Midway International,7411,1599,60,14,5738
+Southwest,Memphis,TN,MEM,Memphis International,209,93,0,2,114
+Southwest,Manchester,NH,MHT,Manchester-Boston Regional,413,122,3,0,288
+Southwest,Milwaukee,WI,MKE,General Mitchell International,1141,371,8,2,760
+Southwest,Minneapolis,MN,MSP,Minneapolis-St Paul International,669,262,1,2,404
+Southwest,New Orleans,LA,MSY,Louis Armstrong New Orleans International,1518,484,9,2,1023
+Southwest,Pensacola,FL,PNS,Pensacola International,93,14,0,0,79
+Southwest,Providence,RI,PVD,Theodore Francis Green State,611,191,6,0,414
+Southwest,Portland,ME,PWM,Portland International Jetport,119,39,0,0,80
+Southwest,Raleigh/Durham,NC,RDU,Raleigh-Durham International,861,229,5,7,620
+Southwest,Richmond,VA,RIC,Richmond International,31,5,0,0,26
+Southwest,Reno,NV,RNO,Reno/Tahoe International,631,217,5,0,409
+Southwest,Rochester,NY,ROC,Greater Rochester International,182,73,0,0,109
+Southwest,Fort Myers,FL,RSW,Southwest Florida International,320,87,0,0,233
+Southwest,San Diego,CA,SAN,San Diego International,3024,895,49,2,2078
+Southwest,San Antonio,TX,SAT,San Antonio International,1426,455,15,1,955
+Southwest,Louisville,KY,SDF,Louisville International-Standiford Field,437,144,3,1,289
+Southwest,Seattle,WA,SEA,Seattle/Tacoma International,1408,485,0,1,922
+Southwest,San Francisco,CA,SFO,San Francisco International,1391,721,52,2,616
+Southwest,San Jose,CA,SJC,Norman Y. Mineta San Jose International,2008,550,27,0,1431
+Southwest,San Juan,PR,SJU,Luis Munoz Marin International,345,88,0,0,257
+Southwest,Salt Lake City,UT,SLC,Salt Lake City International,934,353,1,1,579
+Southwest,Sacramento,CA,SMF,Sacramento International,1975,501,19,2,1453
+Southwest,Santa Ana,CA,SNA,John Wayne Airport-Orange County,1399,282,13,0,1104
+Southwest,St. Louis,MO,STL,Lambert-St. Louis International,2798,739,20,4,2035
+Southwest,Tampa,FL,TPA,Tampa International,2066,558,8,7,1493
+Southwest,Tulsa,OK,TUL,Tulsa International,496,177,1,2,316
+Southwest,Tucson,AZ,TUS,Tucson International,417,156,1,1,259
+Southwest,Albuquerque,NM,ABQ,Albuquerque International Sunport,1322,466,7,6,843
+Southwest,Oakland,CA,OAK,Metropolitan Oakland International,3095,930,72,0,2093
+Southwest,Oklahoma City,OK,OKC,Will Rogers World,580,201,0,2,377
+Southwest,Omaha,NE,OMA,Eppley Airfield,507,192,1,0,314
+Southwest,Ontario,CA,ONT,Ontario International,933,284,9,3,637
+Southwest,Norfolk,VA,ORF,Norfolk International,200,87,1,0,112
+Southwest,West Palm Beach/Palm Beach,FL,PBI,Palm Beach International,185,78,0,1,106
+Southwest,Portland,OR,PDX,Portland International,1154,370,0,0,784
+Southwest,Albany,NY,ALB,Albany International,369,150,2,0,217
+Southwest,Amarillo,TX,AMA,Rick Husband Amarillo International,238,100,0,1,137
+Southwest,Atlanta,GA,ATL,Hartsfield-Jackson Atlanta International,1685,427,20,5,1233
+Southwest,Austin,TX,AUS,Austin - Bergstrom International,1663,499,4,4,1156
+Southwest,Hartford,CT,BDL,Bradley International,552,202,2,0,348
+Southwest,Birmingham,AL,BHM,Birmingham-Shuttlesworth International,466,176,2,0,288
+Southwest,Nashville,TN,BNA,Nashville International,2549,645,25,1,1878
+Southwest,Boise,ID,BOI,Boise Air Terminal,303,112,0,0,191
+Southwest,Boston,MA,BOS,Logan International,982,326,3,2,651
+Southwest,Buffalo,NY,BUF,Buffalo Niagara International,544,189,3,2,350
+Southwest,Burbank,CA,BUR,Bob Hope,1302,303,41,1,957
