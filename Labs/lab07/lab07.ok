@@ -2,7 +2,7 @@
   "name": "Assessing Models: Examining the Therapeutic Touch",
   "endpoint": "ucsd/dsc10/sp19/lab07",
   "src": [
-    "lab08.ipynb"
+    "lab07.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
