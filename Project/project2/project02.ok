@@ -1,6 +1,6 @@
 {
   "name": "Project 2: Jeopardy",
-  "endpoint": "ucsd/dsc10/sp19/project/project02",
+  "endpoint": "ucsd/dsc10/sp19/project02",
   "src": [
     "project02.ipynb"
   ],
