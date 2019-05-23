@@ -1,0 +1,15 @@
+{
+  "name": "Extra Credit HW: Burrito Classification",
+  "endpoint": "ucsd/dsc10/sp19/ec_hw",
+  "src": [
+    "ec_hw.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
